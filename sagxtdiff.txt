@@ -1,0 +1,3855 @@
+
+different on pc
+MAIN 2047492952
+Cinematic Camera (Use ~h~right analog stick~w~ to change cinematic camera type.)
+Cinematic Camera (Use ~k~~VEHICLE_TURRETLEFT~ to change cinematic camera type.)
+
+different on pc
+MAIN 2668047189
+To take a photo with a camera press ~o~ OR you can take the photo by pressing ~k~ and it will be added to your Gallery.
+To take a photo with a camera press ~k~~PED_FIREWEAPON~.
+
+different on pc
+MAIN 2892076722
+START button Back to game
+Esc key Back to game
+
+different on pc
+MAIN 760777814
+Press ~K~ to buy this property.
+Press ~k~~PED_ANSWER_PHONE~ to buy this property.
+
+different on pc
+MAIN 750666500
+Arm with ~o~. Bomb will go off when engine is started.
+Arm with ~k~~PED_FIREWEAPON~. Bomb will go off when engine is started.
+
+different on pc
+MAIN 2677234406
+Arm with ~J~. Bomb will go off when engine is started.
+Arm with ~k~~PED_FIREWEAPON~. Bomb will go off when engine is started.
+
+different on pc
+MAIN 2752500420
+Press ~K~ to pick up this weapon. It will replace any weapon you have of the same type.
+Press ~k~~PED_ANSWER_PHONE~ to pick up this weapon. It will replace any weapon you have of the same type.
+
+different on pc
+MAIN 1241625576
+Press ~t~ to replace current weapon in this slot.
+Press ~k~~PED_ANSWER_PHONE~ to replace current weapon in this slot.
+
+different on pc
+MAIN 3563398731
+Press ~o~ to replace current weapon in this slot.
+Press ~k~~PED_ANSWER_PHONE~ to replace current weapon in this slot.
+
+different on pc
+MAIN 3587863132
+Press ~K~ to answer your cell phone.
+Press ~k~~PED_ANSWER_PHONE~ to answer your cell phone.
+
+different on pc
+MAIN 1154610945
+It's a call from Denise. Press ~K~ to answer your cell phone.
+It's a call from Denise. Press ~k~~PED_ANSWER_PHONE~ to answer your cell phone.
+
+different on pc
+MAIN 869713815
+It's a call from Michelle. Press ~K~ to answer your cell phone.
+It's a call from Michelle. Press ~k~~PED_ANSWER_PHONE~ to answer your cell phone.
+
+different on pc
+MAIN 2866779693
+It's a call from Helena. Press ~K~ to answer your cell phone.
+It's a call from Helena. Press ~k~~PED_ANSWER_PHONE~ to answer your cell phone.
+
+different on pc
+MAIN 3721963195
+It's a call from Barbara. Press ~K~ to answer your cell phone.
+It's a call from Barbara. Press ~k~~PED_ANSWER_PHONE~ to answer your cell phone.
+
+different on pc
+MAIN 1136407320
+It's a call from Katie. Press ~K~ to answer your cell phone.
+It's a call from Katie. Press ~k~~PED_ANSWER_PHONE~ to answer your cell phone.
+
+different on pc
+MAIN 884671374
+It's a call from Millie. Press ~K~ to answer your cell phone.
+It's a call from Millie. Press ~k~~PED_ANSWER_PHONE~ to answer your cell phone.
+
+different on pc
+MAIN 1538880402
+Park it, prime it by pressing the ~o~ or ~K~ and LEG IT!
+Park it, prime it by pressing ~k~~PED_FIREWEAPON~ and LEG IT!
+
+different on pc
+MAIN 2257087399
+Park it, prime it by pressing ~J~ and LEG IT!
+Park it, prime it by pressing ~k~~PED_FIREWEAPON~ and LEG IT!
+
+different on pc
+MAIN 1770874456
+Gustavo Rex, Hanson Tse, Hanson Tse,
+Gustavo Rex, Hanson Tse,
+
+missing on ps2
+MAIN 1339033696
+Alex Bazlinton
+
+missing on ps2
+MAIN 953628918
+Ben Abbott
+
+missing on ps2
+MAIN 2715707724
+Bobby Wright
+
+missing on ps2
+MAIN 3604568538
+Chris Thomson
+
+missing on ps2
+MAIN 1220398201
+Surian Christopher Soosay
+
+missing on ps2
+MAIN 1069219055
+Nick Rees
+
+missing on ps2
+MAIN 2796793173
+Alastair MacGregor
+
+different on pc
+MAIN 494976259
+Hover (Helicopter) ~A~
+Hover (Helicopter) ~k~~VEHICLE_HORN~
+
+different on pc
+MAIN 3948861101
+Landing gear (plane) ~C~
+Landing gear (plane) ~k~~TOGGLE_SUBMISSIONS~
+
+missing on ps2
+MAIN 744323479
+Tattoo Parlor
+
+different on pc
+MAIN 2423001149
+Load failed!~n~~n~A memory card (8MB) (for PlayStation#2) containing the current Mission Pack is not inserted into MEMORY CARD slot 1. Please re-insert the current Mission Pack or start a new game.
+Load failed!~n~~n~The current Mission Pack is not available. Please recheck that the current Mission Pack is installed correctly or start a new game.
+
+different on pc
+MAIN 2782017625
+Save failed! memory card (8MB) (for PlayStation#2) containing current Mission Pack is not inserted into MEMORY CARD slot 1. Please try again.
+Save failed! The current Mission Pack is not available. Please recheck that the current Mission Pack is installed correctly.
+
+different on pc
+MAIN 531109942
+Next weapon
+Next weapon/target
+
+different on pc
+MAIN 152081996
+Previous weapon
+Previous weapon/target
+
+different on pc
+MAIN 1935125528
+CSR 103.2
+CSR 103.9
+
+different on pc
+MAIN 568179146
+San Fiero Rifa
+San Fierro Rifa
+
+different on pc
+MAIN 298407770
+Longest chase time with 5 stars
+Longest chase time with 5 or more stars
+
+different on pc
+MAIN 2294286048
+Last chase time with 5 stars
+Last chase time with 5 or more stars
+
+different on pc
+MAIN 2858418903
+Save failed! Check the memory card (8MB) (for PlayStation#2) in MEMORY CARD slot 1 and please try again.
+Save failed! There was an error while saving the current game. Please check your savegame directory and try again.
+
+different on pc
+MAIN 4275553155
+Load Failed! Check memory card (8MB) (for PlayStation#2) in MEMORY CARD slot 1 and please try again.~n~~n~Now restarting game.
+Load Failed! There was an error while loading the current game. Please check your savegame directory.~n~~n~Now restarting game.
+
+different on pc
+MAIN 1382190223
+Load Failed! Check memory card (8MB) (for PlayStation#2) in MEMORY CARD slot 1 and please try again.
+Load Failed! There was an error while loading the current game. Please check your savegame directory and try again.
+
+different on pc
+MAIN 170621617
+Deleting Failed! Please check memory card (8MB) (for PlayStation#2) in MEMORY CARD slot 1 and try again.
+Deleting Failed! There was an error while deleting the current game. Please check your savegame directory and try again.
+
+different on pc
+MAIN 3600888582
+Saving data. Do not remove memory card (8MB) (for PlayStation#2), controller, or reset/switch off the console.
+Saving data, please wait...
+
+different on pc
+MAIN 2228687865
+Loading data. Do not remove memory card (8MB) (for PlayStation#2), controller, or reset/switch off the console.
+Loading data, please wait...
+
+different on pc
+MAIN 1897099479
+Deleting data. Do not remove memory card (8MB) (for PlayStation#2), controller, or reset/switch off the console.
+Deleting data, please wait...
+
+different on pc
+MAIN 4192164979
+Loading Mission Pack Game. Do not remove memory card (8MB) (for PlayStation#2), controller, or reset/switch off the console.
+Loading Mission Pack Game, please wait...
+
+different on pc
+MAIN 3299607799
+~z~Catalina! You're sick! Get help!
+~z~Catalina! You sick! Get help!
+
+different on pc
+MAIN 3037139938
+~z~Hey, CJ, is Cesar.
+~z~Hey, Cesar.
+
+different on pc
+MAIN 76423282
+~z~Whatever else went down,
+~z~Whatever else went down,I know I gotts do
+
+different on pc
+MAIN 2642899400
+~z~I knew I would do anything I could to avoid
+~z~anything I can to avoid hanging out with
+
+different on pc
+MAIN 4268461702
+~z~Hey!
+~z~Eh.
+
+different on pc
+MAIN 3850609124
+~z~Millie?
+~z~Millie, whassup?
+
+different on pc
+MAIN 193839304
+~z~Likewise, Miss Perkins, likewise.
+~z~Likewise, baby, likewise.
+
+different on pc
+MAIN 3896619148
+~z~Come on, dude, get in!
+~z~Come on, playa, get in!
+
+different on pc
+MAIN 1488470287
+~z~All aboard - heh heh!
+~z~All aboard!
+
+missing on ps2
+MAIN 350008893
+~k~~PED_SPRINT~
+
+different on pc
+MAIN 2728973393
+To auto-level a helicopter, press ~A~.
+To auto-level a helicopter, press ~k~~VEHICLE_HORN~.
+
+different on pc
+MAIN 3228454582
+Press ~t~ to look at the wanted car list.
+Press ~k~~VEHICLE_ENTER_EXIT~ to look at the wanted car list.
+
+different on pc
+MAIN 505386337
+Press ~t~ to play pool.
+Press ~k~~VEHICLE_ENTER_EXIT~ to play pool.
+
+different on pc
+MAIN 3033322650
+To board a train press ~t~ next to a passenger carriage door.
+To board a train press ~k~~VEHICLE_ENTER_EXIT~ next to a passenger carriage door.
+
+different on pc
+MAIN 2935329178
+People on the streets will talk to Carl.~n~You can respond to these comments: Use ~<~ for a negative reply or use ~>~ to reply positively.
+People on the streets will talk to Carl.~n~You can respond to these comments: Use ~k~~CONVERSATION_NO~ for a negative reply or use ~k~~CONVERSATION_YES~ to reply positively.
+
+different on pc
+MAIN 1535796164
+Press ~X~ to skip to the next station.
+Press ~k~~VEHICLE_ACCELERATE~ to skip to the next station.
+
+different on pc
+MAIN 1250608889
+Press ~K~ to have your picture taken.
+Press ~k~~PED_ANSWER_PHONE~ to have your picture taken.
+
+different on pc
+MAIN 3548616515
+Press ~K~ to take the picture.~n~~t~ To get the camera back.
+Press ~k~~PED_ANSWER_PHONE~ to take the picture.~n~~k~~VEHICLE_ENTER_EXIT~ To get the camera back.
+
+different on pc
+MAIN 3930414379
+When on foot, press ~U~ to call Ryder back to your side if he gets too involved in a fight.
+When on foot, press ~k~~GROUP_CONTROL_FWD~ to call Ryder back to your side if he gets too involved in a fight.
+
+different on pc
+MAIN 3999989563
+Push the left analog stick right or left to rotate the crane.
+Use ~k~~GO_LEFT~ and ~k~~GO_RIGHT~ to rotate the crane.
+
+different on pc
+MAIN 3309808888
+Push the left analog stick up or down to move the magnet closer or further away.
+Use ~k~~GO_FORWARD~ and ~k~~GO_BACK~ to move the magnet closer or further away.
+
+different on pc
+MAIN 3697057209
+Press ~q~ to raise the magnet.
+Press ~k~~PED_JUMPING~ to raise the magnet.
+
+different on pc
+MAIN 2468154238
+Press ~x~ to lower the magnet.
+Press ~k~~PED_SPRINT~ to lower the magnet.
+
+different on pc
+MAIN 4161722774
+Use the ~h~left analog stick~w~ or ~u~ and ~d~ to select a weapon.~N~~X~ View~N~~T~ Back.
+Use ~k~~GO_FORWARD~ and ~k~~GO_BACK~ to select a weapon.~N~~k~~PED_SPRINT~ View~N~~k~~VEHICLE_ENTER_EXIT~ Back.
+
+different on pc
+MAIN 2399791360
+~X~ Buy~N~~T~ Back.
+~k~~PED_SPRINT~ Buy~N~~k~~VEHICLE_ENTER_EXIT~ Back.
+
+different on pc
+MAIN 3772765417
+Press ~o~ or ~K~ to activate the car's nitrous.
+Press ~k~~PED_FIREWEAPON~ to activate the car's nitrous.
+
+different on pc
+MAIN 4266101085
+To stop Carl from entering a car once he has opened the door or dragged out a driver or passenger, move the left analog stick or press ~o~.
+To stop Carl from entering a car once he has opened the door or dragged out a driver or passenger, use the movement controls or press ~k~~PED_FIREWEAPON~.
+
+different on pc
+MAIN 415335641
+~o~ Change view~n~~t~ Quit the private dance.
+~k~~PED_FIREWEAPON~ Change view.~n~~k~~VEHICLE_ENTER_EXIT~ Quit the private dance.
+
+different on pc
+MAIN 578944144
+~x~ SELECT ~t~ EXIT ~<~~>~~u~~d~ NAVIGATE
+~k~~PED_SPRINT~ SELECT ~k~~VEHICLE_ENTER_EXIT~ EXIT Movement Controls NAVIGATE
+
+different on pc
+MAIN 209433278
+Press ~X~ to skip to the end of the flight.
+Press ~k~~PED_SPRINT~ to skip to the end of the flight.
+
+different on pc
+MAIN 2507334404
+Press ~X~ to skip to the end of the flight.~N~Press ~T~ to jump from the plane.
+Press ~k~~PED_SPRINT~ to skip to the end of the flight.~N~Press ~k~~VEHICLE_ENTER_EXIT~ to jump from the plane.
+
+different on pc
+MAIN 3499430413
+While targeting an opponent press ~t~ for a special attack and ~q~ to block.
+While holding ~k~~PED_LOCK_TARGET~ press ~k~~VEHICLE_ENTER_EXIT~ for a special attack and ~k~~PED_JUMPING~ to block.
+
+different on pc
+MAIN 587332317
+Are you sure? ~N~~x~ Confirm and quit.~N~~t~ Back to dance.
+Are you sure? ~N~~k~~PED_SPRINT~ Confirm and quit.~N~~k~~VEHICLE_ENTER_EXIT~ Back to dance.
+
+different on pc
+MAIN 1947270634
+To use the sniper rifle's scope press ~J~. Pressing ~M~ zooms in and pressing ~V~ zooms out.
+To use the sniper rifle's scope press ~k~~PED_LOCK_TARGET~. Pressing ~k~~PED_SNIPER_ZOOM_IN~ zooms in and pressing ~k~~PED_SNIPER_ZOOM_OUT~ zooms out.
+
+different on pc
+MAIN 3977882704
+Press ~o~ or ~K~ to fire.
+Press ~k~~PED_FIREWEAPON~ to fire.
+
+different on pc
+MAIN 977339943
+~t~ To skip a cellphone call.
+~k~~VEHICLE_ENTER_EXIT~ To skip a cellphone call.
+
+different on pc
+MAIN 223950331
+If you have previously completed a journey in a mission that you failed you may press ~>~ to activate a 'Trip Skip'.
+If you have previously completed a journey in a mission that you failed you may press ~k~~CONVERSATION_YES~ to activate a 'Trip Skip'.
+
+different on pc
+MAIN 998193245
+To raise or lower the suspension, press ~A~.
+To raise or lower the suspension, press ~k~~VEHICLE_HORN~.
+
+different on pc
+MAIN 139673023
+Use the left analog stick or ~u~ and ~d~ to select a haircut.~n~~x~ = View~n~~T~ = Quit
+Use ~k~~GO_FORWARD~ and ~k~~GO_BACK~ to select a haircut.~n~~k~~PED_SPRINT~ = View~n~~k~~VEHICLE_ENTER_EXIT~ = Quit
+
+different on pc
+MAIN 2438622213
+~x~ = Buy~N~~T~ = Back
+~k~~PED_SPRINT~ = Buy~N~~k~~VEHICLE_ENTER_EXIT~ = Back
+
+different on pc
+MAIN 4243598291
+Press ~T~ to remove the jet pack.
+Press ~k~~VEHICLE_ENTER_EXIT~ to remove the jet pack.
+
+different on pc
+MAIN 4015445894
+Use ~u~ or ~d~ to change radio station.
+Use ~k~~VEHICLE_RADIO_STATION_UP~ and ~k~~VEHICLE_RADIO_STATION_DOWN~ to change radio station.
+
+different on pc
+MAIN 1667182987
+Use the ~H~left analog stick~W~ or ~u~ and ~d~ to select an area.~N~~X~ Select~N~~T~ Quit
+Use ~k~~GO_FORWARD~ and ~k~~GO_BACK~ to select an area.~N~~k~~PED_SPRINT~ Select~N~~k~~VEHICLE_ENTER_EXIT~ Quit
+
+different on pc
+MAIN 4199964721
+Use the ~H~left analog stick~W~ or ~u~ and ~d~ to select a tattoo.~N~~X~ Buy~N~~T~ Quit
+Use ~k~~GO_FORWARD~ and ~k~~GO_BACK~ to select a tattoo.~N~~k~~PED_SPRINT~ Buy~N~~k~~VEHICLE_ENTER_EXIT~ Quit
+
+different on pc
+MAIN 3160382971
+Use the ~h~left analog stick~w~ or ~<~ and ~>~ to select a meal.~N~~X~ Buy~N~~T~ Quit
+Use ~k~~GO_LEFT~ or ~k~~GO_RIGHT~ to select a meal.~N~~k~~PED_SPRINT~ Buy~N~~k~~VEHICLE_ENTER_EXIT~ Quit
+
+different on pc
+MAIN 3791922569
+Use the ~h~left analog stick~w~ or ~<~ and ~>~ to select a meal.~N~~T~ Quit
+Use ~k~~GO_LEFT~ or ~k~~GO_RIGHT~ to select a meal.~N~~k~~VEHICLE_ENTER_EXIT~ Quit
+
+different on pc
+MAIN 1819803631
+Use the ~h~left analog stick~w~ or ~u~ and ~d~ to select a weapon.~N~~X~ Select~N~~T~ Quit.
+Use ~k~~GO_FORWARD~ and ~k~~GO_BACK~ to select a weapon.~N~~k~~PED_SPRINT~ Select~N~~k~~VEHICLE_ENTER_EXIT~ Quit.
+
+different on pc
+MAIN 1171009768
+Use the ~H~left analog stick~W~ or ~u~ and ~d~ to select a shop.~N~~X~ Select~N~~T~ Quit
+Use ~k~~GO_FORWARD~ and ~k~~GO_BACK~ to select a shop.~N~~k~~PED_SPRINT~ Select~N~~k~~VEHICLE_ENTER_EXIT~ Quit
+
+different on pc
+MAIN 3703923026
+Use the ~H~left analog stick~W~ or ~u~ and ~d~ to select an area.~N~~X~ Select~N~~T~ Back
+Use ~k~~GO_FORWARD~ and ~k~~GO_BACK~ to select an area.~N~~k~~PED_SPRINT~ Select~N~~k~~VEHICLE_ENTER_EXIT~ Back
+
+different on pc
+MAIN 2881638852
+Use the ~H~left analog stick~W~ or ~u~ and ~d~ to select an item.~N~~X~ View~N~~T~ Back
+Use ~k~~GO_FORWARD~ and ~k~~GO_BACK~ to select an item.~N~~k~~PED_SPRINT~ View~N~~k~~VEHICLE_ENTER_EXIT~ Back
+
+different on pc
+MAIN 900121703
+~X~ Wear~N~~T~ Back
+~k~~PED_SPRINT~ Wear~N~~k~~VEHICLE_ENTER_EXIT~ Back
+
+different on pc
+MAIN 3410749914
+Use the ~H~left analog stick~W~ or ~u~ and ~d~ to select area.~N~~X~ Select~N~~T~ Quit
+Use ~k~~GO_FORWARD~ and ~k~~GO_BACK~ to select area.~N~~k~~PED_SPRINT~ Select~N~~k~~VEHICLE_ENTER_EXIT~ Quit
+
+different on pc
+MAIN 1380104288
+Use the ~H~left analog stick~W~ or ~u~ and ~d~ to select clothing.~N~~X~ View Item~N~~T~ Back
+Use ~k~~GO_FORWARD~ and ~k~~GO_BACK~ to select clothing.~N~~k~~PED_SPRINT~ View Item~N~~k~~VEHICLE_ENTER_EXIT~ Back
+
+different on pc
+MAIN 3836653491
+Use the ~H~left analog stick~W~ or ~u~ and ~d~ to select an area.~N~~X~ Remove Item~N~~T~ Back
+Use ~k~~GO_FORWARD~ and ~k~~GO_BACK~ to select an area.~N~~k~~PED_SPRINT~ Remove Item~N~~k~~VEHICLE_ENTER_EXIT~ Back
+
+different on pc
+MAIN 2108161545
+~X~ Keep~N~~T~ Back
+~k~~PED_SPRINT~ Keep~N~~k~~VEHICLE_ENTER_EXIT~ Back
+
+different on pc
+MAIN 625314038
+~X~ Buy~N~~T~ Back
+~k~~PED_SPRINT~ Buy~N~~k~~VEHICLE_ENTER_EXIT~ Back
+
+different on pc
+MAIN 1143225434
+Use the ~H~left analog stick~W~ or ~u~ and ~d~ to select an upgrade.~N~~X~ Select~N~~T~ Quit
+Use ~k~~VEHICLE_STEERUP~ and ~k~~VEHICLE_STEERDOWN~ to select an upgrade.~N~~k~~PED_SPRINT~ Select~N~~k~~VEHICLE_ENTER_EXIT~ Quit
+
+different on pc
+MAIN 3710741984
+Use the ~H~left analog stick~W~ or ~u~ and ~d~ to select an upgrade.~N~~X~ Buy Item~N~~T~ Back
+Use ~k~~VEHICLE_STEERUP~ and ~k~~VEHICLE_STEERDOWN~ to select an upgrade.~N~~k~~PED_SPRINT~ Buy Item~N~~k~~VEHICLE_ENTER_EXIT~ Back
+
+different on pc
+MAIN 2854903158
+Use the ~H~left analog stick~W~ or ~u~ and ~d~ to select an upgrade.~N~~X~ View Item~N~~T~ Back
+Use ~k~~VEHICLE_STEERUP~ and ~k~~VEHICLE_STEERDOWN~ to select an upgrade.~N~~k~~PED_SPRINT~ View Item~N~~k~~VEHICLE_ENTER_EXIT~ Back
+
+different on pc
+MAIN 877578453
+Use the ~H~left analog stick~W~ or ~u~, ~d~, ~<~ and ~>~ to select a color.~N~~X~ Buy Item~N~~T~ Back
+Use the movement controls to select a color.~N~~k~~PED_SPRINT~ Buy Item~N~~k~~VEHICLE_ENTER_EXIT~ Back
+
+different on pc
+MAIN 1128921155
+Use the ~H~left analog stick~W~ or ~u~ and ~d~ to select a an area.~N~~X~ Select~N~~T~ Back
+Use ~k~~VEHICLE_STEERUP~ and ~k~~VEHICLE_STEERDOWN~ to select an area.~N~~k~~PED_SPRINT~ Select~N~~k~~VEHICLE_ENTER_EXIT~ Back
+
+different on pc
+MAIN 3661670905
+Use the ~H~left analog stick~W~ or ~u~, ~d~, ~<~ and ~>~ to select a color.~N~~X~ Buy~N~~T~ Back
+Use the movement controls to select a color.~N~~k~~PED_SPRINT~ Buy~N~~k~~VEHICLE_ENTER_EXIT~ Back
+
+different on pc
+MAIN 2201692667
+Press ~K~ to give the gift.
+Press ~k~~PED_ANSWER_PHONE~ to give the gift
+
+different on pc
+MAIN 3991068923
+Press ~K~ to purchase the property.
+Press ~k~~PED_ANSWER_PHONE~ to purchase the property.
+
+different on pc
+MAIN 3124612657
+~<~ ~>~ Change wager~N~~x~ Place wager~N~~q~ Max wager
+~k~~CONVERSATION_NO~ ~k~~CONVERSATION_YES~ Change wager~N~~k~~PED_SPRINT~ Place wager~N~~k~~PED_JUMPING~ Max wager
+
+different on pc
+MAIN 1767900116
+~t~ Use keypad
+~k~~VEHICLE_ENTER_EXIT~ Use keypad
+
+different on pc
+MAIN 2695481171
+Press ~t~ to view the vehicles available to buy.
+Press ~k~~VEHICLE_ENTER_EXIT~ to view the vehicles available to buy.
+
+different on pc
+MAIN 2237602978
+Use the left analog stick or ~u~ and ~d~ to select a day.~N~~x~ Select~N~~t~ Exit
+Use ~k~~GO_FORWARD~ and ~k~~GO_BACK~ to select a day.~N~~k~~PED_SPRINT~ Select~N~~k~~VEHICLE_ENTER_EXIT~ Exit
+
+different on pc
+MAIN 4065864756
+Use the left analog stick or ~u~ and ~d~ to select a vehicle.~N~~x~ Buy Car~N~~t~ Back
+Use ~k~~GO_FORWARD~ and ~k~~GO_BACK~ to select a vehicle.~N~~k~~PED_SPRINT~ Buy Car~N~~k~~VEHICLE_ENTER_EXIT~ Back
+
+different on pc
+MAIN 2677318641
+Push the ~h~left analog stick~w~ up and down in rhythm~n~~o~ Change view~n~~q~ Change position~n~~t~ Quit
+Push ~k~~GO_FORWARD~ and ~k~~GO_BACK~ in rhythm~n~~k~~PED_FIREWEAPON~ Change view~n~~k~~PED_JUMPING~ Change position~n~~k~~VEHICLE_ENTER_EXIT~ Quit
+
+different on pc
+MAIN 3901985639
+Press ~K~ to kiss.
+Press ~k~~PED_ANSWER_PHONE~ to kiss.
+
+different on pc
+MAIN 2257556144
+Press ~>~ to agree or ~<~ to disagree
+Press ~k~~CONVERSATION_YES~ to agree or ~k~~CONVERSATION_NO~ to disagree
+
+different on pc
+MAIN 1355240909
+Press ~x~ when the power bar is full~n~~o~ Change view~n~~t~ Quit
+Press ~k~~PED_SPRINT~ when the power bar is full~n~~k~~PED_FIREWEAPON~ Change view~n~~k~~VEHICLE_ENTER_EXIT~ Quit
+
+different on pc
+MAIN 548249922
+~K~ - Change radio station~n~~t~ Quit
+~k~~PED_ANSWER_PHONE~ - Change radio station~n~~k~~VEHICLE_ENTER_EXIT~ Quit
+
+different on pc
+MAIN 1933819279
+Press ~K~ to give the gift to your girlfriend.
+Press ~k~~PED_ANSWER_PHONE~ to give the gift to your girlfriend.
+
+different on pc
+MAIN 1688082240
+Push the left analog stick right or left to rotate the wrecker ball crane.
+Push ~k~~GO_LEFT~ and ~k~~GO_RIGHT~ to rotate the wrecker ball crane.
+
+different on pc
+MAIN 4254549754
+Push the left analog stick up or down to move the wrecker ball closer or further away.
+Push ~k~~GO_BACK~ to move the wrecker ball closer or ~k~~GO_FORWARD~ to move it further away.
+
+different on pc
+MAIN 2324723308
+Press ~q~ to raise the wrecker ball.
+Press ~k~~PED_JUMPING~ to raise the wrecker ball.
+
+different on pc
+MAIN 351593423
+Press ~x~ to lower the wrecker ball.
+Press ~k~~PED_SPRINT~ to lower the wrecker ball.
+
+different on pc
+MAIN 1676923737
+Press the ~h~SELECT ~w~button to change camera view.
+Press ~k~~CAMERA_CHANGE_VIEW_ALL_SITUATIONS~ to change camera view.
+
+different on pc
+MAIN 2738778534
+Left/right on the left analog stick rotates crane.~N~ Up/down on the right analog stick raises/lowers magnet.
+Push ~k~~GO_LEFT~ and ~k~~GO_RIGHT~ to rotate the crane.~N~Press ~k~~PED_JUMPING~ to raise the magnet and ~k~~PED_SPRINT~ to lower it.
+
+different on pc
+MAIN 1500594578
+The left analog stick controls the crane.~N~~q~ Raise winch.~N~~x~ Lower winch.~N~~o~ Release objects.
+The movement controls rotate the crane.~N~~k~~PED_JUMPING~ Raise winch.~N~~k~~PED_SPRINT~ Lower winch.~N~~k~~PED_FIREWEAPON~ Release objects.
+
+different on pc
+MAIN 3346157081
+Use the ~h~left analog stick ~w~to select spot.~n~~q~ Increase Wager~n~~o~ Decrease Wager~n~~x~ Spin Wheel~n~~t~ Exit
+Use the movement controls to select spot.~n~~k~~PED_JUMPING~ Increase Wager~n~~k~~PED_FIREWEAPON~ Decrease Wager~n~~k~~PED_SPRINT~ Spin Wheel~n~~k~~VEHICLE_ENTER_EXIT~ Exit
+
+different on pc
+MAIN 993992581
+left analog stick: Rotate
+Movement Controls: Rotate
+
+different on pc
+MAIN 1278750483
+~t~ Exit
+~k~~VEHICLE_ENTER_EXIT~ Exit
+
+different on pc
+MAIN 3576790697
+~x~ Enter Number
+~k~~PED_SPRINT~ Enter Number
+
+different on pc
+MAIN 790899052
+left analog stick: Rotate~n~ ~x~ Enter Number~n~ ~t~ Exit
+Movement Controls: Rotate~n~~k~~PED_SPRINT~ Enter Number~n~~k~~VEHICLE_ENTER_EXIT~ Exit
+
+different on pc
+MAIN 183992815
+Use the ~h~left analog stick ~w~to select wager.~n~~q~ Increase Wager~N~~o~ Decrease Wager~N~~x~ Proceed~N~~t~ Quit
+Use the movement controls to select wager.~n~~k~~PED_JUMPING~ Increase Wager~N~~k~~PED_FIREWEAPON~ Decrease Wager~N~~k~~PED_SPRINT~ Proceed~N~~k~~VEHICLE_ENTER_EXIT~ Quit
+
+different on pc
+MAIN 3704191260
+Press ~x~ to continue.
+Press ~k~~PED_SPRINT~ to continue.
+
+different on pc
+MAIN 1518509443
+Press and hold ~x~ to shoot the ball. Release ~x~ at the peak of the jump for maximum accuracy.
+Press and hold ~k~~PED_SPRINT~ to shoot the ball. Release ~k~~PED_SPRINT~ at the peak of the jump for maximum accuracy.
+
+different on pc
+MAIN 763735317
+You must return to the court to continue playing basketball or press ~t~ to quit out.
+You must return to the court to continue playing basketball or press ~k~~VEHICLE_ENTER_EXIT~ to quit out.
+
+different on pc
+MAIN 719874316
+Stand near the ball, and CJ will automatically pick it up.~N~Press ~t~ to quit out of basketball.
+Stand near the ball, and CJ will automatically pick it up.~N~Press ~k~~VEHICLE_ENTER_EXIT~ to quit out of basketball.
+
+different on pc
+MAIN 3126293661
+Press ~x~ to pick up the ball.
+Press ~k~~PED_SPRINT~ to pick up the ball.
+
+different on pc
+MAIN 3444589579
+Press ~C~ to start the challenge mode.
+Press ~k~~PED_LOOKBEHIND~ to start the challenge mode.
+
+different on pc
+MAIN 3789100840
+~q~ Increase Wager~N~~o~ Decrease Wager~N~~x~ Proceed~N~~t~ Quit
+~k~~PED_JUMPING~ Increase Wager~N~~k~~PED_FIREWEAPON~ Decrease Wager~N~~k~~PED_SPRINT~ Proceed~N~~k~~VEHICLE_ENTER_EXIT~ Quit
+
+different on pc
+MAIN 2026915474
+~o~ Hit~N~~x~ Stick~N~~t~ Quit~N~~q~ Double
+~k~~PED_FIREWEAPON~ Hit~N~~k~~PED_SPRINT~ Stick~N~~k~~PED_JUMPING~ Double~N~~k~~VEHICLE_ENTER_EXIT~ Quit
+
+different on pc
+MAIN 265778692
+~o~ Hit~N~~x~ Stick~N~~t~ Quit~N~~q~ Double~N~~V~ Split
+~k~~PED_FIREWEAPON~ Hit~N~~k~~PED_SPRINT~ Stick~N~~k~~PED_JUMPING~ Double~N~~k~~PED_CYCLE_WEAPON_RIGHT~ Split~N~~k~~VEHICLE_ENTER_EXIT~ Quit
+
+different on pc
+MAIN 2444485543
+Press ~x~ to continue.
+Press ~k~~PED_SPRINT~ to continue.
+
+different on pc
+MAIN 3870610225
+~o~ Hit~N~~x~ Stick~N~~t~ Quit
+~k~~PED_FIREWEAPON~ Hit~N~~k~~PED_SPRINT~ Stick~N~~k~~VEHICLE_ENTER_EXIT~ Quit
+
+different on pc
+MAIN 2088478801
+To lift the dumbbells alternate between pressing ~x~ and ~o~~n~This will increase your power.
+To lift the dumbbells alternate between pressing ~k~~PED_SPRINT~ and ~k~~PED_FIREWEAPON~.~n~This will increase your power.
+
+different on pc
+MAIN 192714951
+~w~To lift the weight alternate between pressing ~x~ and ~o~~n~This will increase your power.
+~w~To lift the weight alternate between pressing ~k~~PED_SPRINT~ and ~k~~PED_FIREWEAPON~.~n~This will increase your power.
+
+different on pc
+MAIN 3663305635
+Press ~x~ rapidly to begin to pedal.
+Press ~k~~PED_SPRINT~ rapidly to begin to pedal.
+
+different on pc
+MAIN 2908662581
+To change the level press ~<~ or ~>~.
+To change the level press ~k~~CONVERSATION_NO~ or ~k~~CONVERSATION_YES~.
+
+different on pc
+MAIN 878181007
+To begin to run press ~x~ rapidly to run.
+To begin running, press ~k~~PED_SPRINT~ rapidly.
+
+different on pc
+MAIN 1129368089
+To change the level press ~<~ or ~>~ while on the treadmill.
+To change the level press ~k~~CONVERSATION_NO~ or ~k~~CONVERSATION_YES~ while on the treadmill.
+
+different on pc
+MAIN 3711197114
+To change the incline press ~U~ or ~D~ while on the treadmill.
+To change the incline press ~k~~GROUP_CONTROL_FWD~ or ~k~~GROUP_CONTROL_BWD~ while on the treadmill.
+
+different on pc
+MAIN 3899652385
+Push the ~h~left analog stick~w~ up or down to select level.~N~~X~ Select~N~~T~ Quit
+Use ~k~~GO_FORWARD~ and ~k~~GO_BACK~ to select level.~N~~k~~PED_SPRINT~ Select~N~~k~~VEHICLE_ENTER_EXIT~ Quit
+
+different on pc
+MAIN 2255747318
+Push the ~H~left analog stick~W~ up or down to select a weight.~N~~X~ Select~N~~T~ Quit
+Use ~k~~GO_FORWARD~ and ~k~~GO_BACK~ to select a weight.~N~~k~~PED_SPRINT~ Select~N~~k~~VEHICLE_ENTER_EXIT~ Quit
+
+different on pc
+MAIN 1753061850
+Press ~<~ to answer 'NO' or press ~>~ to answer 'YES'.
+Press ~k~~CONVERSATION_NO~ to answer 'NO' or press ~k~~CONVERSATION_YES~ to answer 'YES'.
+
+different on pc
+MAIN 636398939
+To do a drive-by, first look left or right using ~M~ or ~V~
+To do a drive-by, first look left or right using ~k~~VEHICLE_LOOKLEFT~ or ~k~~VEHICLE_LOOKRIGHT~
+
+different on pc
+MAIN 4009554489
+Press ~t~ to apply the vehicle's handbrake.
+Press ~k~~VEHICLE_HANDBRAKE~ to apply the vehicle's handbrake.
+
+different on pc
+MAIN 58083195
+Press ~x~ to accelerate.
+Press ~k~~VEHICLE_ACCELERATE~ to accelerate.
+
+different on pc
+MAIN 45362508
+Press ~q~ to brake, or to reverse if the bike has stopped.
+Press ~k~~VEHICLE_BRAKE~ to brake, or to reverse if the bike has stopped.
+
+different on pc
+MAIN 3169320161
+Then fire using ~o~ OR ~K~
+Then fire using ~k~~PED_FIREWEAPON~.
+
+different on pc
+MAIN 3420507255
+Then fire using ~J~
+Then fire using ~k~~PED_LOCK_TARGET~.
+
+different on pc
+MAIN 1901291352
+Press ~C~ to toggle taxi missions on or off.
+Press ~k~~TOGGLE_SUBMISSIONS~ to toggle taxi missions on or off.
+
+different on pc
+MAIN 2903956257
+Press ~q~ to toggle taxi missions on or off.
+Press ~k~~TOGGLE_SUBMISSIONS~ to toggle taxi missions on or off.
+
+different on pc
+MAIN 2489022016
+Press ~C~ to toggle freight train missions on or off.
+Press ~k~~TOGGLE_SUBMISSIONS~ to toggle freight train missions on or off.
+
+different on pc
+MAIN 223487994
+Press ~q~ to toggle fire freight train missions on or off.
+Press ~k~~TOGGLE_SUBMISSIONS~ to toggle freight train missions on or off.
+
+different on pc
+MAIN 1062061256
+Press ~C~ to toggle fire truck missions on or off.
+Press ~k~~TOGGLE_SUBMISSIONS~ to toggle fire truck missions on or off.
+
+different on pc
+MAIN 1566004934
+Press ~q~ to toggle fire truck missions on or off.
+Press ~k~~TOGGLE_SUBMISSIONS~ to toggle fire truck missions on or off.
+
+different on pc
+MAIN 1870681467
+Press ~C~ to toggle Vigilante missions on or off.
+Press ~k~~TOGGLE_SUBMISSIONS~ to toggle Vigilante missions on or off.
+
+different on pc
+MAIN 258963809
+Press ~q~ to toggle Vigilante missions on or off.
+Press ~k~~TOGGLE_SUBMISSIONS~ to toggle Vigilante missions on or off.
+
+different on pc
+MAIN 4025964766
+Press ~q~ to toggle Paramedic missions on or off.
+Press ~k~~TOGGLE_SUBMISSIONS~ to toggle Paramedic missions on or off.
+
+different on pc
+MAIN 806429551
+Press ~q~ to toggle Burglary missions on or off.
+Press ~k~~TOGGLE_SUBMISSIONS~ to toggle Burglary missions on or off.
+
+different on pc
+MAIN 2836951765
+Press ~C~ to toggle Burglary missions on or off.
+Press ~k~~TOGGLE_SUBMISSIONS~ to toggle Burglary missions on or off.
+
+different on pc
+MAIN 2421546932
+Press ~C~ to toggle pimping missions on or off.
+Press ~k~~TOGGLE_SUBMISSIONS~ to toggle pimping missions on or off.
+
+different on pc
+MAIN 157060622
+Press ~q~ to toggle pimping missions on or off.
+Press ~k~~TOGGLE_SUBMISSIONS~ to toggle pimping missions on or off.
+
+different on pc
+MAIN 15897365
+Press the ~J~ to apply the vehicle's back brake.
+Press ~k~~VEHICLE_HANDBRAKE~ to apply the vehicle's back brake.
+
+different on pc
+MAIN 1889036186
+Press ~K~ to apply the vehicle's back brake.
+Press ~k~~VEHICLE_HANDBRAKE~ to apply the vehicle's back brake.
+
+different on pc
+MAIN 2727414201
+Press ~K~ to jump on the bike.
+Press ~k~~VEHICLE_ENTER_EXIT~ to jump on the bike.
+
+different on pc
+MAIN 718125725
+Press ~K~ to exit a vehicle.
+Press ~k~~VEHICLE_ENTER_EXIT~ to exit a vehicle.
+
+different on pc
+MAIN 3583392047
+Push up or down on the ~h~left analog stick~w~, to shift your weight on the bike.
+Push ~k~~VEHICLE_STEERUP~ and ~k~~VEHICLE_STEERDOWN~, to shift your weight on the bike.
+
+different on pc
+MAIN 579037506
+Push left or right on the ~h~left analog stick~w~ to steer the vehicle.
+Use ~k~~VEHICLE_STEERLEFT~ and ~k~~VEHICLE_STEERRIGHT~ to steer the vehicle.
+
+different on pc
+MAIN 3146397944
+Push left or right on the ~h~left analog stick~w~ to steer the vehicle.
+Use ~k~~VEHICLE_STEERLEFT~ and ~k~~VEHICLE_STEERRIGHT~ to steer the vehicle.
+
+different on pc
+MAIN 2597826536
+Press ~U~ or ~D~ to change the camera mode.
+Press ~k~~GROUP_CONTROL_FWD~ or ~k~~GROUP_CONTROL_BWD~ to change the camera mode.
+
+different on pc
+MAIN 2646240241
+Press ~M~ or ~V~ to cycle through your available weapons.
+Press ~k~~PED_CYCLE_WEAPON_LEFT~ or ~k~~PED_CYCLE_WEAPON_RIGHT~ to cycle through your available weapons.
+
+different on pc
+MAIN 1022729242
+Press ~t~ to jump on the bike.
+Press ~k~~VEHICLE_ENTER_EXIT~ to jump on the bike.
+
+different on pc
+MAIN 1703685210
+Press ~t~ to exit a vehicle.
+Press ~k~~VEHICLE_ENTER_EXIT~ to exit a vehicle.
+
+different on pc
+MAIN 1931260916
+Push the right analog stick up to ~h~accelerate.
+Push ~k~~VEHICLE_ACCELERATE~ to ~h~accelerate.
+
+different on pc
+MAIN 1927207363
+Pull the right analog stick back to brake, or to reverse if the vehicle has stopped.
+Use ~k~~VEHICLE_BRAKE~ to brake, or to reverse if the vehicle has stopped.
+
+different on pc
+MAIN 58119365
+Move right analog stick up or down to move the winch close to a vehicle. ~N~Press ~O~ to release.
+Use ~k~~VEHICLE_TURRETUP~ and ~k~~VEHICLE_TURRETDOWN~ to move the winch close to a vehicle. ~N~Press ~k~~PED_FIREWEAPON~ to release.
+
+different on pc
+MAIN 602907928
+Use the ~H~left analog stick~W~ to move Carl.
+Use ~k~~GO_FORWARD~, ~k~~GO_BACK~, ~k~~GO_LEFT~ and ~k~~GO_RIGHT~ to move Carl.
+
+different on pc
+MAIN 2101453121
+To reply negatively press ~<~~n~To reply positively press ~>~
+To reply negatively press ~k~~CONVERSATION_NO~~n~To reply positively press ~k~~CONVERSATION_YES~
+
+different on pc
+MAIN 3989872510
+Press the ~h~SELECT~w~ button to change camera views. Push the ~h~left analog stick~w~ up or down to raise and lower the game camera.
+Press ~k~~CAMERA_CHANGE_VIEW_ALL_SITUATIONS~ to change camera views. Use the mouse or right analog stick to raise and lower the game camera.
+
+different on pc
+MAIN 2519940923
+Press ~K~ to view stats. This shows CJ's current condition. Whenever a stat changes it will appear at the top left of the screen.
+Press ~k~~PED_ANSWER_PHONE~ to view stats. This shows CJ's current condition. Whenever a stat changes it will appear at the top left of the screen.
+
+different on pc
+MAIN 600616764
+To pedal hold down ~X~
+To pedal hold down ~k~~VEHICLE_ACCELERATE~.
+
+different on pc
+MAIN 1403411379
+To pedal the bike faster repeatedly tap ~X~
+To pedal the bike faster repeatedly tap ~k~~VEHICLE_ACCELERATE~.
+
+different on pc
+MAIN 1603897566
+Press ~J~ to target and ~o~ to perform a melee attack.
+Press ~k~~PED_FIREWEAPON~ to perform a melee attack.
+
+different on pc
+MAIN 2389635422
+Use the ~h~left analog stick ~w~to move around in the water.
+Use the movement controls to move around in the water.
+
+different on pc
+MAIN 4184457672
+Tap ~X~ when swimming forwards to swim faster.
+Tap ~k~~PED_SPRINT~ when swimming forwards to swim faster.
+
+different on pc
+MAIN 4261676497
+Press ~O~ to dive underwater.
+Press ~k~~PED_FIREWEAPON~ to dive underwater.
+
+different on pc
+MAIN 1728926827
+Hold down ~X~ and use the ~h~left analog stick ~w~to swim around underwater.
+Hold down ~k~~PED_SPRINT~ to swim around underwater.
+
+different on pc
+MAIN 575206512
+Press ~C~ to toggle Paramedic missions on or off.
+Press ~k~~TOGGLE_SUBMISSIONS~ to toggle Paramedic missions on or off.
+
+different on pc
+MAIN 3121130343
+~t~ Hold to quit.
+~k~~VEHICLE_ENTER_EXIT~ Hold to quit.
+
+different on pc
+MAIN 32236601
+Press ~T~ to use this machine.
+Press ~k~~VEHICLE_ENTER_EXIT~ to use this machine.
+
+different on pc
+MAIN 109453344
+Press ~T~ to begin exercising.
+Press ~k~~VEHICLE_ENTER_EXIT~ to begin exercising.
+
+different on pc
+MAIN 353004959
+~<~ or ~>~ Select Weight~N~ ~x~ OK
+~k~~GO_LEFT~ or ~k~~GO_RIGHT~ Select Weight~N~~k~~PED_SPRINT~ OK
+
+different on pc
+MAIN 4234791082
+Press ~t~ to exit.
+Press ~k~~VEHICLE_ENTER_EXIT~ to exit.
+
+different on pc
+MAIN 1499930380
+Press ~t~ to look at cars currently for sale.
+Press ~k~~VEHICLE_ENTER_EXIT~ to look at cars currently for sale.
+
+different on pc
+MAIN 778055578
+Press ~t~ to exit.
+Press ~k~~VEHICLE_ENTER_EXIT~ to exit.
+
+different on pc
+MAIN 2953099833
+Press ~U~ or ~D~ to select a vehicle.
+Use ~k~~GO_FORWARD~ and ~k~~GO_BACK~ to select a vehicle.
+
+different on pc
+MAIN 3338898095
+Press ~x~ to buy a vehicle.
+Press ~k~~PED_SPRINT~ to buy a vehicle.
+
+different on pc
+MAIN 1029250246
+All taxi's now have a boost jump! Just press the horn button.
+All taxi's now have a boost jump! Just press ~k~~VEHICLE_HORN~.
+
+different on pc
+MAIN 3867754543
+~t~ Use Slot Machine $~1~
+~k~~VEHICLE_ENTER_EXIT~ Use Slot Machine $~1~
+
+different on pc
+MAIN 267052314
+~t~ Buy Snack: $1
+~k~~VEHICLE_ENTER_EXIT~ Buy Snack: $1
+
+different on pc
+MAIN 3539560676
+~t~ Play Video Poker
+~k~~VEHICLE_ENTER_EXIT~ Play Video Poker
+
+different on pc
+MAIN 3378020433
+~T~
+~k~~VEHICLE_ENTER_EXIT~
+
+different on pc
+MAIN 1463555570
+~X~
+~k~~PED_SPRINT~
+
+different on pc
+MAIN 1327604907
+~t~ Play Blackjack~n~Max Wager $100
+~k~~VEHICLE_ENTER_EXIT~ Play Blackjack~n~Max Wager $100
+
+different on pc
+MAIN 3593008401
+~t~ Play Blackjack~n~Max Wager $1,000
+~k~~VEHICLE_ENTER_EXIT~ Play Blackjack~n~Max Wager $1,000
+
+different on pc
+MAIN 2704262535
+~t~ Play Blackjack~n~Max Wager $10,000
+~k~~VEHICLE_ENTER_EXIT~ Play Blackjack~n~Max Wager $10,000
+
+different on pc
+MAIN 1061900324
+~t~ Play Blackjack~n~Max Wager $100,000
+~k~~VEHICLE_ENTER_EXIT~ Play Blackjack~n~Max Wager $100,000
+
+different on pc
+MAIN 1212965042
+~t~ Play Blackjack~n~Max Wager $1,000,000
+~k~~VEHICLE_ENTER_EXIT~ Play Blackjack~n~Max Wager $1,000,000
+
+different on pc
+MAIN 2459891967
+~t~ Play Wheel of Fortune~n~Max Wager $100
+~k~~VEHICLE_ENTER_EXIT~ Play Wheel of Fortune~n~Max Wager $100
+
+different on pc
+MAIN 194488645
+~t~ Play Wheel of Fortune~n~Max Wager $1,000
+~k~~VEHICLE_ENTER_EXIT~ Play Wheel of Fortune~n~Max Wager $1,000
+
+different on pc
+MAIN 2089851347
+~t~ Play Wheel of Fortune~n~Max Wager $10,000
+~k~~VEHICLE_ENTER_EXIT~ Play Wheel of Fortune~n~Max Wager $10,000
+
+different on pc
+MAIN 3807644784
+~t~ Play Wheel of Fortune~n~Max Wager $100,000
+~k~~VEHICLE_ENTER_EXIT~ Play Wheel of Fortune~n~Max Wager $100,000
+
+different on pc
+MAIN 2515746022
+~t~ Play Wheel of Fortune~n~Max Wager $1,000,000
+~k~~VEHICLE_ENTER_EXIT~ Play Wheel of Fortune~n~Max Wager $1,000,000
+
+different on pc
+MAIN 2177422691
+~t~ To get a private dance: $100
+~k~~VEHICLE_ENTER_EXIT~ To get a private dance: $100
+
+different on pc
+MAIN 4140819957
+~t~ To throw money to stripper: $20
+~k~~VEHICLE_ENTER_EXIT~ To throw money to stripper: $20
+
+different on pc
+MAIN 43727145
+GO-GO Karting
+Go-Go Karting
+
+different on pc
+MAIN 1353436843
+~s~You're vehicle is already this color.
+~s~Your vehicle is already this color.
+
+different on pc
+MAIN 4267112930
+~t~ Play Black Jack
+~k~~VEHICLE_ENTER_EXIT~ Play Black Jack
+
+different on pc
+MAIN 3453369845
+~t~ Enter Crane
+~k~~VEHICLE_ENTER_EXIT~ Enter Crane
+
+different on pc
+MAIN 3134262627
+~t~ Exit Crane
+~k~~VEHICLE_ENTER_EXIT~ Exit Crane
+
+different on pc
+MAIN 2139099541
+~t~ Use Slot Machine
+~k~~VEHICLE_ENTER_EXIT~ Use Slot Machine
+
+different on pc
+MAIN 2028852620
+~t~ Buy Drink: $1
+~k~~VEHICLE_ENTER_EXIT~ Buy Drink: $1
+
+different on pc
+MAIN 3789849654
+~t~ Play Roulette~n~Max Wager $100
+~k~~VEHICLE_ENTER_EXIT~ Play Roulette~n~Max Wager $100
+
+different on pc
+MAIN 2531505312
+~t~ Play Roulette~n~Max Wager $1,000
+~k~~VEHICLE_ENTER_EXIT~ Play Roulette~n~Max Wager $1,000
+
+different on pc
+MAIN 106735921
+~t~ Play Roulette~n~Max Wager $10,000
+~k~~VEHICLE_ENTER_EXIT~ Play Roulette~n~Max Wager $10,000
+
+different on pc
+MAIN 1901828519
+~t~ Play Roulette~n~Max Wager $100,000
+~k~~VEHICLE_ENTER_EXIT~ Play Roulette~n~Max Wager $100,000
+
+different on pc
+MAIN 295440450
+~t~ Play Roulette~n~Max Wager $1,000,000
+~k~~VEHICLE_ENTER_EXIT~ Play Roulette~n~Max Wager $1,000,000
+
+different on pc
+MAIN 3908515516
+~t~ Use ITB Machine
+~k~~VEHICLE_ENTER_EXIT~ Use ITB Machine
+
+different on pc
+MAIN 3828893332
+~x~ Continue
+~k~~PED_SPRINT~ Continue
+
+different on pc
+MAIN 1282827405
+~t~ Play Wheel of Fortune
+~k~~VEHICLE_ENTER_EXIT~ Play Wheel of Fortune
+
+different on pc
+MAIN 3280718905
+~t~ Play Basketball
+~k~~VEHICLE_ENTER_EXIT~ Play Basketball
+
+different on pc
+MAIN 1289170428
+~t~ Use Videogame
+~k~~VEHICLE_ENTER_EXIT~ Use Videogame
+
+different on pc
+MAIN 449171219
+Walk in to the red marker to continue.
+Walk into the red marker to continue.
+
+different on pc
+MAIN 477537453
+Drive your vehicle on to the red marker.
+Drive your vehicle onto the red marker.
+
+different on pc
+MAIN 2565934485
+AK47: ~n~Round 2
+AK47 ~n~Round 2
+
+different on pc
+MAIN 2478827774
+~>~ YES or ~<~ NO
+~k~~CONVERSATION_YES~ YES or ~k~~CONVERSATION_NO~ NO
+
+missing on ps2
+MAIN 4019343333
+THIS LABEL NEEDS TO BE HERE !!!
+
+missing on ps2
+MAIN 3844830793
+FLY WITH MOUSE
+
+missing on ps2
+MAIN 2994839499
+CLICK LMB / RETURN - ENTER MENU
+
+missing on ps2
+MAIN 3472273306
+CLICK LMB / RETURN - BACK
+
+missing on ps2
+MAIN 249894185
+CLICK LMB / RETURN - SCAN USER TRACKS
+
+missing on ps2
+MAIN 1258505914
+Save game corrupted
+
+missing on ps2
+MAIN 1450323392
+Load failed!~n~~n~The current Mission Pack is not available. Please recheck that the current Mission Pack is installed correctly.~n~~n~Press RETURN to start a new standard game.
+
+missing on ps2
+MAIN 438876925
+Asterisk
+
+missing on ps2
+MAIN 3028695883
+Are you sure you want to reset your current settings to default?
+
+missing on ps2
+MAIN 3580732592
+User track skip
+
+missing on ps2
+MAIN 4290478434
+STORE GALLERY PHOTOS
+
+missing on ps2
+MAIN 1484395050
+Changing your language settings will reset your controls to their default configuration and your current control configuration will be lost. Are you sure you want to change language?
+
+missing on ps2
+MAIN 2696792207
+VERY HIGH
+
+missing on ps2
+MAIN 553842459
+Restore Defaults
+
+missing on ps2
+MAIN 1428707057
+Look Behind Vehicle
+
+missing on ps2
+MAIN 739464824
+Look Left of Vehicle
+
+missing on ps2
+MAIN 2404735281
+Look Right of Vehicle
+
+missing on ps2
+MAIN 4051716425
+Horn
+
+missing on ps2
+MAIN 2940405591
+Vehicle Handbrake
+
+missing on ps2
+MAIN 1132867834
+Vehicle Accelerate
+
+missing on ps2
+MAIN 2357016592
+Vehicle Brake
+
+missing on ps2
+MAIN 1689154470
+Toggle SubMissions
+
+missing on ps2
+MAIN 3796729405
+Enter/Exit Vehicle
+
+missing on ps2
+MAIN 3570192262
+Fire Weapon
+
+missing on ps2
+MAIN 3780941514
+Pause
+
+missing on ps2
+MAIN 3190765143
+1st Person Weapons
+
+missing on ps2
+MAIN 1336895391
+Show mouse pointer
+
+missing on ps2
+MAIN 1401537775
+Change camera mode all situations.
+
+missing on ps2
+MAIN 2661371589
+Take Screen Shot
+
+missing on ps2
+MAIN 3414432472
+DEBUG MENU
+
+missing on ps2
+MAIN 870063191
+Toggle Pad Game/Debug
+
+missing on ps2
+MAIN 2401474076
+Turn Debug Camera Off
+
+missing on ps2
+MAIN 2102215503
+Invert Mouse Horizontally:
+
+missing on ps2
+MAIN 6216655
+LMB
+
+missing on ps2
+MAIN 2002381657
+MMB
+
+missing on ps2
+MAIN 4199671468
+RMB
+
+missing on ps2
+MAIN 988061433
+???
+
+missing on ps2
+MAIN 4006401934
+Only Two Keyboard Keys Allowed
+
+missing on ps2
+MAIN 1260526381
+Unique Mouse Key only please.
+
+missing on ps2
+MAIN 1519598987
+Only One Mouse Key Allowed
+
+missing on ps2
+MAIN 73633258
+Unique Joystick button only please.
+
+missing on ps2
+MAIN 366127948
+Only One Joystick Buttons per action allowed
+
+missing on ps2
+MAIN 1541504299
+Use LockTarget with Weapon Switch Left.
+
+missing on ps2
+MAIN 2716745800
+Use LockTarget with Weapon Switch Right.
+
+missing on ps2
+MAIN 3271200633
+Use Look Left With Look Right.
+
+missing on ps2
+MAIN 3485581280
+JOY~1~
+
+missing on ps2
+MAIN 2467606745
+Warning
+
+missing on ps2
+MAIN 530907739
+O.K.
+
+missing on ps2
+MAIN 570427328
+Delete Failed.
+
+missing on ps2
+MAIN 268044592
+Save Unsuccessful.
+
+missing on ps2
+MAIN 3116922706
+Load Unsuccessful. File Corrupted, Please delete.
+
+missing on ps2
+MAIN 1653543693
+Gamepad
+
+missing on ps2
+MAIN 2394649852
+Joystick
+
+missing on ps2
+MAIN 3281382341
+DEFAULT SETTINGS RESTORED
+
+missing on ps2
+MAIN 3253864459
+STEER WITH MOUSE
+
+missing on ps2
+MAIN 3682906424
+NUM STAR
+
+missing on ps2
+MAIN 4116820750
+LEFT / RIGHT / MOUSEWHEEL - ADJUST
+
+missing on ps2
+MAIN 4294942212
+BACKSPACE - CLEAR~n~CLICK LMB / RETURN - CHANGE
+
+missing on ps2
+MAIN 1559045546
+ORIGINAL SETTING RESTORED
+
+missing on ps2
+MAIN 1442896630
+DRAW DISTANCE
+
+missing on ps2
+MAIN 3710356376
+FRAME LIMITER
+
+missing on ps2
+MAIN 1141605660
+Main Menu
+
+missing on ps2
+MAIN 882138032
+RESOLUTION
+
+missing on ps2
+MAIN 2537630608
+Controller Setup
+
+missing on ps2
+MAIN 3915091878
+Options
+
+missing on ps2
+MAIN 120790998
+MOUSE SENSITIVITY
+
+missing on ps2
+MAIN 2269281836
+INVERT MOUSE VERTICALLY
+
+missing on ps2
+MAIN 1675117987
+F~1~
+
+missing on ps2
+MAIN 220256772
+INS
+
+missing on ps2
+MAIN 3268800222
+DEL
+
+missing on ps2
+MAIN 2869468767
+HOME
+
+missing on ps2
+MAIN 4294602329
+END
+
+missing on ps2
+MAIN 1583715449
+PGUP
+
+missing on ps2
+MAIN 886420619
+PGDN
+
+missing on ps2
+MAIN 1207371385
+UP
+
+missing on ps2
+MAIN 357718521
+DOWN
+
+missing on ps2
+MAIN 1217932113
+LEFT
+
+missing on ps2
+MAIN 1579197739
+RIGHT
+
+missing on ps2
+MAIN 591786630
+NUM
+
+missing on ps2
+MAIN 945240933
+NUM~1~
+
+missing on ps2
+MAIN 3849321695
+NUM /
+
+missing on ps2
+MAIN 1425205383
+NUM +
+
+missing on ps2
+MAIN 1585266744
+NUM -
+
+missing on ps2
+MAIN 4204012875
+NUM .
+
+missing on ps2
+MAIN 1361510059
+NUMLOCK
+
+missing on ps2
+MAIN 3137544659
+ENT
+
+missing on ps2
+MAIN 1171836552
+SCROLL LOCK
+
+missing on ps2
+MAIN 4078487275
+BREAK
+
+missing on ps2
+MAIN 520339645
+BSPACE
+
+missing on ps2
+MAIN 2363825892
+TAB
+
+missing on ps2
+MAIN 1509846520
+CAPSLOCK
+
+missing on ps2
+MAIN 3060516969
+RETURN
+
+missing on ps2
+MAIN 3779680486
+LSHIFT
+
+missing on ps2
+MAIN 4159821468
+RSHIFT
+
+missing on ps2
+MAIN 1479687167
+LCTRL
+
+missing on ps2
+MAIN 1317713285
+RCTRL
+
+missing on ps2
+MAIN 2036908331
+LALT
+
+missing on ps2
+MAIN 1875922769
+RALT
+
+missing on ps2
+MAIN 1798044878
+LWIN
+
+missing on ps2
+MAIN 2106815156
+RWIN
+
+missing on ps2
+MAIN 2555105721
+WINCLICK
+
+missing on ps2
+MAIN 2910067687
+SPACE
+
+missing on ps2
+MAIN 303253063
+Grand Theft Auto SA
+
+missing on ps2
+MAIN 1313428273
+Grand Theft Auto SA cannot run on Windows 95
+
+missing on ps2
+MAIN 3889908079
+Grand Theft Auto SA requires at least DirectX version 9.0
+
+missing on ps2
+MAIN 4218610358
+CANNOT SET A CONTROL FOR THIS ACTION
+
+missing on ps2
+MAIN 1812011186
+Are you sure you want to quit? All progress since the last save game will be lost. Proceed?
+
+missing on ps2
+MAIN 2679663098
+Are you sure you want to quit the game?
+
+missing on ps2
+MAIN 1874340170
+Quit Game
+
+missing on ps2
+MAIN 3750132606
+START GAME
+
+missing on ps2
+MAIN 3674175597
+Pause Menu
+
+missing on ps2
+MAIN 3593522315
+REPLAY
+
+missing on ps2
+MAIN 2065711938
+Action
+
+missing on ps2
+MAIN 2453018183
+Converting textures to optimal format for your video card
+
+missing on ps2
+MAIN 843000823
+SHIFT
+
+missing on ps2
+MAIN 2814232031
+VIEW MAP
+
+missing on ps2
+MAIN 2900541314
+Starting new game. Please wait...
+
+missing on ps2
+MAIN 1364093638
+OPTION NOT AVAILABLE
+
+missing on ps2
+MAIN 1540259076
+LMB/CURSORS - SCROLL~n~PGUP/PGDN/MSWHEEL - ZOOM~n~Z - OVERVIEW , L - LEGEND~n~RMB/T - TARGET , SPACEBAR - BLIPS MENU~n~ESC - BACK
+
+missing on ps2
+MAIN 2433333185
+USER TRACK PLAYER
+
+missing on ps2
+MAIN 568224626
+Please insert your GTA San Andreas CD, or press ESC to cancel
+
+missing on ps2
+MAIN 528947225
+CURSORS - MOVE~n~S - SAVE TO FILE
+
+missing on ps2
+MAIN 3456870935
+LAST MISSION PASSED
+
+missing on ps2
+MAIN 107971861
+STATS SAVED TO 'STATS.HTML'
+
+missing on ps2
+MAIN 743616750
+Grand Theft Auto SA cannot find enough available video memory
+
+missing on ps2
+MAIN 3697077175
+Grand Theft Auto SA cannot find Audio card installed
+
+missing on ps2
+MAIN 1732005817
+Error! One or more control actions are not bound to a key or button. Please check all control actions are set~n~Press ESC to continue
+
+missing on ps2
+MAIN 1081544164
+Special Ctrl Up
+
+missing on ps2
+MAIN 717696278
+Special Ctrl Down
+
+missing on ps2
+MAIN 3793442627
+SELECT A NEW CONTROL FOR THIS ACTION~n~ESC - CANCEL
+
+missing on ps2
+MAIN 3907228245
+You have run out of disk space. Please make some space on your harddisk before continuing. Press ESC to cancel.
+
+missing on ps2
+MAIN 3325158596
+Group Ctrl Forward
+
+missing on ps2
+MAIN 3244040413
+Group Ctrl Back
+
+missing on ps2
+MAIN 2171228019
+Conversation - Yes
+
+missing on ps2
+MAIN 45730484
+Conversation - No
+
+missing on ps2
+MAIN 1132823383
+ADVANCED
+
+missing on ps2
+MAIN 1054432556
+VISUAL FX QUALITY
+
+missing on ps2
+MAIN 1521677804
+HIGH
+
+missing on ps2
+MAIN 718799203
+MEDIUM
+
+missing on ps2
+MAIN 1574908405
+LOW
+
+missing on ps2
+MAIN 374513995
+MIP MAPPING
+
+missing on ps2
+MAIN 1318618013
+ANTI ALIASING
+
+missing on ps2
+MAIN 2863122777
+CONFIGURATION
+
+missing on ps2
+MAIN 3161255331
+Are you sure you want to load this save game?
+
+different on pc
+MAIN 2093796906
+Classic
+Joypad
+
+different on pc
+MAIN 1625976154
+Standard
+Mouse + Keys
+
+different on pc
+MAIN 4242129685
+FOOT
+Foot Controls
+
+different on pc
+MAIN 1758302821
+VEHICLE
+Vehicle Controls
+
+different on pc
+MAIN 3397424469
+COMBO: LOOK L+R
+COMBO: Uses LOOK LEFT + LOOK RIGHT together
+
+missing on ps2
+MAIN 3836241589
+CLICK LMB / RETURN - APPLY NEW SETTING
+
+missing on ps2
+MAIN 3139146778
+CURSORS - MOVE UP/DOWN~n~RETURN - TOGGLE OPTION
+
+missing on ps2
+MAIN 649391098
+PLAY MODE
+
+missing on ps2
+MAIN 1506772044
+RADIO
+
+missing on ps2
+MAIN 3234256374
+RANDOM
+
+missing on ps2
+MAIN 3082937696
+SEQUENTIAL
+
+missing on ps2
+MAIN 718095329
+AUTOMATIC MEDIA SCAN
+
+missing on ps2
+MAIN 3370808744
+SCAN USER TRACKS
+
+missing on ps2
+MAIN 3617546937
+~1~ TRACKS IN DATABASE
+
+missing on ps2
+MAIN 3391648477
+User Track Options
+
+missing on ps2
+MAIN 2892391749
+SCANNING USER TRACKS - PLEASE WAIT~n~~n~Press ESC to cancel
+
+different on pc
+MAIN 605857060
+Look left+Turret L
+Special Ctrl Left
+
+different on pc
+MAIN 3725826119
+Look right+Turret R
+Special Ctrl Right
+
+missing on ps2
+MAIN 3720645716
+To play your own music in-game, create Short-Cuts to your music tracks in the 'User Tracks' folder.
+
+missing on ps2
+MAIN 3187164108
+Joypad Settings
+
+missing on ps2
+MAIN 2566298005
+INVERT LEFT STICK Y
+
+missing on ps2
+MAIN 4025592067
+INVERT LEFT STICK X
+
+missing on ps2
+MAIN 2290472196
+INVERT RIGHT STICK Y
+
+missing on ps2
+MAIN 4286768530
+INVERT RIGHT STICK X
+
+missing on ps2
+MAIN 2342126019
+INVERT LEFT AXIS
+
+missing on ps2
+MAIN 2615758162
+INVERT RIGHT AXIS
+
+missing on ps2
+MAIN 4036691863
+SNAP CAMERA POSITION
+
+missing on ps2
+MAIN 2884376945
+USER TRACKS SCANNED SUCCESSFULLY
+
+missing on ps2
+MAIN 3325164954
+FAILED TO SCAN USER TRACKS
+
+missing on ps2
+MAIN 2699814669
+Error! Changing controls on the 'On Foot' screen has caused one or more control actions to be unbound on the 'In Vehicle' screen. Please check all control actions are set~n~Press ESC to continue
+
+missing on ps2
+MAIN 3622623131
+Error! Changing controls on the 'In Vehicle' screen has caused one or more control actions to be unbound on the 'On Foot' screen. Please check all control actions are set~n~Press ESC to continue
+
+missing on ps2
+MAIN 3264721480
+Secondary Fire
+
+missing on ps2
+MAIN 3180416434
+Steer Forward/Down
+
+missing on ps2
+MAIN 3609292096
+Steer Back/Up
+
+different on pc
+MAIN 2438073984
+Hold target on
+Aim Weapon
+
+different on pc
+MAIN 1823002894
+Brake
+Brake/Reverse
+
+missing on ps2
+MAIN 3295455361
+Mouse Look
+
+missing on ps2
+MAIN 2605098646
+Walk
+
+missing on ps2
+MAIN 435340602
+Are you sure you want to start a new game?
+
+missing on ps2
+MAIN 83337031
+DATE
+
+different on pc
+BCOU 3638082049
+Hold ~M~ or ~V~ and press ~o~ to launch an item to the left or right. Drive over the last unsuccessfully thrown item to reclaim it.
+Hold ~k~~VEHICLE_LOOKLEFT~ or ~k~~VEHICLE_LOOKRIGHT~ and press ~k~~PED_FIREWEAPON~ to launch an item to the left or right. Drive over the last unsuccessfully thrown item to reclaim it.
+
+different on pc
+BCOU 1332751832
+Hold ~M~ or ~V~ and press ~o~ to launch an item to the left or right. Drive over the last unsuccessfully thrown item to reclaim it.
+Hold ~k~~VEHICLE_LOOKLEFT~ or ~k~~VEHICLE_LOOKRIGHT~ and press ~k~~PED_FIREWEAPON~ to launch an item to the left or right. Drive over the last unsuccessfully thrown item to reclaim it.
+
+different on pc
+BCOU 1172787494
+Press ~C~ to end delivery run
+Press ~k~~TOGGLE_SUBMISSIONS~ to end delivery run.
+
+different on pc
+BCRASH1 131031958
+To view your Gallery, press the START button to enter the pause menu.
+You can view your Gallery photos in your GTA San Andreas User Files directory.
+
+different on pc
+BCRASH1 1892176640
+Hold ~J~ to look through the camera viewfinder.
+Hold ~k~~PED_LOCK_TARGET~ to look through the camera viewfinder.
+
+different on pc
+BCRASH1 3921740474
+When using the camera, press ~M~ to zoom in, or press ~V~ to zoom out.
+When using the camera, press ~k~~PED_SNIPER_ZOOM_IN~ to zoom in, or press ~k~~PED_SNIPER_ZOOM_OUT~ to zoom out.
+
+different on pc
+BOAT 3981523017
+~z~Passing a test will unlock the next test in the training program.
+~z~Passing a test will unlock the next test.
+
+different on pc
+BOAT 3250845208
+~s~Hold ~X~ to throttle forward and bring the boat to rest within the parallel ~y~buoys~s~ region.
+~s~Hold ~k~~VEHICLE_ACCELERATE~ to throttle forward and bring the boat to rest within the parallel ~y~buoys~s~ region.
+
+different on pc
+BOAT 3066349198
+~s~Hold ~q~ to apply reverse throttle.
+~s~Hold ~k~~VEHICLE_BRAKE~ to apply reverse throttle.
+
+different on pc
+BOAT 3941508571
+~s~Navigate through each pair of ~y~buoys~s~. Throttle with ~X~ and use the left analog stick to steer.
+~s~Navigate through each pair of ~y~buoys~s~. Throttle with ~k~~VEHICLE_ACCELERATE~ and use ~k~~VEHICLE_STEERLEFT~ and ~k~~VEHICLE_STEERRIGHT~ to steer.
+
+different on pc
+BOAT 2649331021
+~s~Hold ~J~ to perform a sharper turn.
+~s~Hold ~k~~VEHICLE_HANDBRAKE~ to perform a sharper turn.
+
+different on pc
+BOAT 2592362836
+~s~Navigate through each pair of ~y~buoys~s~. Throttle with ~X~ and use the left analog stick to steer. ~n~ Hint: Hold ~J~ to perform a sharper turn.
+~s~Navigate through each pair of ~y~buoys~s~. Throttle with ~k~~VEHICLE_ACCELERATE~ and use ~k~~VEHICLE_STEERLEFT~ and ~k~~VEHICLE_STEERRIGHT~ to steer. ~n~Hint: Hold ~k~~VEHICLE_HANDBRAKE~ to perform a sharper turn.
+
+different on pc
+BOAT 1617672670
+Press ~T~ to view tests.
+Press ~k~~VEHICLE_ENTER_EXIT~ to view tests.
+
+different on pc
+BOAT 4184008804
+Press ~T~ to quit test.
+Press ~k~~VEHICLE_ENTER_EXIT~ to quit test.
+
+different on pc
+BOAT 2980643479
+~s~Power the boat forwards and bring her to rest within the parallel ~y~buoys~s~. ~n~ Throttle forward with ~X~ and backwards with ~q~.
+~s~Power the boat forwards and bring her to rest within the parallel ~y~buoys~s~. ~n~ Throttle forward with ~k~~VEHICLE_ACCELERATE~ and backwards with ~k~~VEHICLE_BRAKE~.
+
+different on pc
+BOAT 484483866
+~s~Press ~T~ to return to the Boat School.~N~Press ~X~ to retry.
+~s~Press ~k~~VEHICLE_ENTER_EXIT~ to return to the Boat School.~N~Press ~k~~VEHICLE_ACCELERATE~ to retry.
+
+different on pc
+BOAT 2587703168
+~s~Press ~X~ to continue.
+~s~Press ~k~~PED_SPRINT~ to continue.
+
+different on pc
+BOAT 650296779
+~T~
+~k~~VEHICLE_ENTER_EXIT~
+
+different on pc
+BOAT 3097897064
+~X~
+~k~~PED_SPRINT~
+
+different on pc
+BS 4258658690
+~s~Use the bike to do a burnout donut.~N~Press ~X~ and ~Q~ to begin the burnout.
+~s~Use the bike to do a burnout donut.~N~Press ~k~~VEHICLE_ACCELERATE~ and ~k~~VEHICLE_BRAKE~ to begin the burnout.
+
+different on pc
+BS 4287842267
+~s~To do a 180, accelerate to top speed, press ~J~ to slide around the cone and then return.
+~s~To do a 180, accelerate to top speed, press ~k~~VEHICLE_HANDBRAKE~ to slide around the cone and then return.
+
+different on pc
+BS 4266733036
+~s~Do a Wheelie along the coned section. Accelerate to top speed, then pull back on the left analog stick.
+~s~Do a Wheelie along the coned section. Accelerate to top speed, then push ~k~~VEHICLE_STEERDOWN~.
+
+different on pc
+BS 4213062505
+~s~Do a Stoppie along the coned section. Accelerate to top speed, push forward on the left analog stick, then press ~Q~
+~s~Do a Stoppie along the coned section. Accelerate to top speed, push ~k~~VEHICLE_STEERUP~, then press ~k~~VEHICLE_BRAKE~.
+
+different on pc
+BS 3987125523
+Press ~T~ to return to the Bike School.~N~Press ~X~ to retry.
+Press ~k~~VEHICLE_ENTER_EXIT~ to return to the Bike School.~N~Press ~k~~VEHICLE_ACCELERATE~ to retry.
+
+different on pc
+BS 1957684393
+~s~Press ~X~ to continue.
+~s~Press ~k~~VEHICLE_ACCELERATE~ to continue.
+
+different on pc
+BS 1999319239
+~T~ View television
+~k~~VEHICLE_ENTER_EXIT~ View television
+
+different on pc
+BS 2083381914
+~T~
+~k~~VEHICLE_ENTER_EXIT~
+
+different on pc
+BS 187355660
+~X~
+~k~~PED_SPRINT~
+
+different on pc
+BURGLAR 3123698827
+Press ~t~ to pick up item
+Press ~k~~VEHICLE_ENTER_EXIT~ to pick up item
+
+different on pc
+BURGLAR 608913704
+Press ~t~ to put item in truck
+Press ~k~~VEHICLE_ENTER_EXIT~ to put item in truck
+
+different on pc
+CASIN10 4273820543
+Press the ~h~SELECT button~w~ to change camera modes.
+Press ~k~~CAMERA_CHANGE_VIEW_ALL_SITUATIONS~ to change camera modes.
+
+different on pc
+CASINO1 3781918356
+~z~Oh, this is too fast! TO FAAAAAAST!
+~z~Oh, this is too fast! TOO FAAAAAAST!
+
+different on pc
+CASINO2 2003303776
+~z~Stop that crazy madman!
+~z~Dude, somebody stop that guy!
+
+different on pc
+CASINO2 1879718265
+~z~Someone's stealing the dynamite, call security!
+~z~Someone's stealing dynamite, call security!
+
+different on pc
+CASINO2 213435251
+~s~Pull the right analog stick down to lower the crate.
+~s~Push ~k~~VEHICLE_TURRETUP~ to lower the crate.
+
+different on pc
+CASINO3 1782522127
+~z~Tell Woozie, we'll be getting no more trouble with
+~z~Tell Woozie, we'll be getting no more trouble with them.
+
+different on pc
+CASINO5 3477478952
+~z~Hello, Sir, can I help?
+~z~Hello, Sir, can I help you?
+
+different on pc
+CASINO6 1131453512
+~z~Rosie, where've you gone?
+~z~Rosie, where you go?
+
+different on pc
+CASINO6 857368775
+~z~Stay in there while I finish off these assholes!
+~z~Okay, stay in there while I finish off these assholes!
+
+different on pc
+CASINO6 1972454
+Press ~t~ when stood in front of switches to operate them.
+Press ~k~~VEHICLE_ENTER_EXIT~ when stood in front of switches to operate them.
+
+different on pc
+CASINO6 1998137456
+Press ~t~ when stood in front of the freezer switch to operate the door.
+Press ~k~~VEHICLE_ENTER_EXIT~ when stood in front of the freezer switch to operate the door.
+
+missing on ps2
+CASINO9 1594936489
+Move left and right to take cover.
+
+different on pc
+CASINO9 796538918
+Press ~t~ to eject.
+Press ~k~~VEHICLE_ENTER_EXIT~ to eject.
+
+different on pc
+CASINO9 3061016988
+Use ~M~ and ~V~ to take cover.
+Use ~k~~PED_CYCLE_WEAPON_LEFT~ and ~k~~PED_CYCLE_WEAPON_RIGHT~ to take cover.
+
+different on pc
+CASINO9 3245627658
+Press ~A~ to duck.
+Press ~k~~PED_DUCK~ to duck.
+
+different on pc
+CASINO9 3365719000
+Your going to need a fast plane to catch up with the hitmen, there is one at the airport.
+You're going to need a fast plane to catch up with the hitmen, there is one at the airport.
+
+different on pc
+CASINO9 2793458191
+~s~ You have 20 seconds to manually eject from the plane before your fuel runs out.
+~s~You have 20 seconds to manually eject from the plane before your fuel runs out.
+
+different on pc
+CAT 3934273886
+~z~hanging out with that crazy bitch.
+~z~that crazy bitch.
+
+different on pc
+CAT 45378365
+Press ~O~ to throw the ~h~satchel~w~. Hold ~O~ for longer to increase the distance of the throw.
+Press ~k~~PED_FIREWEAPON~ to throw the ~h~satchel~w~. Hold ~k~~PED_FIREWEAPON~ for longer to increase the distance of the throw.
+
+different on pc
+CAT 3956788744
+When the ~h~satchel~w~ is attached, select the ~h~detonator~w~ weapon and press ~O~ to detonate.
+When the ~h~satchel~w~ is attached, select the ~h~detonator~w~ weapon and press ~k~~PED_FIREWEAPON~ to detonate.
+
+different on pc
+CAT 2501089111
+Look behind by pressing ~M~ and ~V~ together, or use the right analog stick to maneuver the camera for a better view.
+Look behind by pressing ~k~~VEHICLE_LOOKLEFT~ and ~k~~VEHICLE_LOOKRIGHT~ together, or use the camera movement controls to maneuver the camera for a better view.
+
+different on pc
+CAT 1701511971
+Look behind by pressing ~M~ and ~V~ together, or use the right analog stick to maneuver the camera for a better view. To attach to a trailer, slowly back the cab into the front of the trailer.
+Look behind by pressing ~k~~VEHICLE_LOOKLEFT~ and ~k~~VEHICLE_LOOKRIGHT~ together, or use the camera movement controls to maneuver the camera for a better view. To attach to a trailer, slowly back the cab into the front of the trailer.
+
+different on pc
+CRASH1 2036945093
+Press and hold ~o~ to throw a molotov. Hold ~o~ for longer to increase the throwing distance. Be careful! If you don't throw it far enough you'll get caught in the blast radius.
+Press and hold ~k~~PED_FIREWEAPON~ to throw a molotov. Hold ~k~~PED_FIREWEAPON~ for longer to increase the throwing distance. Be careful! If you don't throw it far enough you'll get caught in the blast.
+
+different on pc
+CRASH1 207094985
+Press ~o~ to use the fire extinguisher. Use right analog stick and left analog stick to adjust your position. Use ~J~ for a better view. Aim at the base of a fire to put it out.
+Press ~k~~PED_FIREWEAPON~ to use the fire extinguisher. Use ~k~~PED_LOCK_TARGET~ for a better view. Aim at the base of a fire to put it out.
+
+different on pc
+CRASH3 443648832
+To roll you must be crouched and have a gun equipped, then press and hold ~J~ and push the left analog stick in the direction you wish to roll in.
+To roll you must be crouched and have a gun equipped, then press and hold ~k~~PED_LOCK_TARGET~ and use ~k~~GO_LEFT~ and ~k~~GO_RIGHT~ to roll.
+
+different on pc
+CRASH3 2417176424
+If you press ~J~ and you have not targeted anyone you can strafe.
+If you press ~k~~PED_LOCK_TARGET~ while armed with a gun you can strafe.
+
+different on pc
+CRASH3 3876855806
+When strafing you can manually aim and shoot by using the ~h~right analog stick.
+When strafing you can manually aim and shoot by using the camera movement controls.
+
+different on pc
+DS 1480942834
+Press ~Q~ to begin.
+Press ~k~~VEHICLE_BRAKE~ to begin.
+
+different on pc
+DS 1962636804
+Press and hold ~X~ to begin.
+Press and hold ~k~~VEHICLE_ACCELERATE~ to begin.
+
+different on pc
+DS 1329772955
+~s~Use the front wheel drive car to reverse then quickly spin around 180 degrees.~n~Press ~M~ and ~V~ together to look behind.
+~s~Use the front wheel drive car to reverse then quickly spin around 180 degrees.~n~Press ~k~~VEHICLE_LOOKLEFT~ and ~k~~VEHICLE_LOOKRIGHT~ together to look behind.
+
+different on pc
+DS 1484914920
+~s~Drive to the end of the track, a tire will blow out half way there.~n~For extra control, release the accelerate button.
+~s~Drive to the end of the track, a tire will blow out half way there.~n~For extra control, release the accelerator.
+
+different on pc
+DS 3247133010
+~s~Do a barrel roll in mid air and land it perfectly. While in the air, release the accelerate button and move the ~h~left analog stick~w~ to adjust the car's pitch.
+~s~Do a barrel roll in mid air and land it perfectly. While in the air, release the accelerate button and use ~k~~VEHICLE_STEERUP~ and ~k~~VEHICLE_STEERDOWN~ to adjust the car's pitch.
+
+different on pc
+DS 3048034577
+Press and hold ~X~ and ~Q~ to begin.
+Press and hold ~k~~VEHICLE_ACCELERATE~ and ~k~~VEHICLE_BRAKE~ to begin.
+
+different on pc
+DS 1739154080
+~s~To do a 180, accelerate to top speed, press ~J~ to handbrake around the cone and then return.
+~s~To do a 180, accelerate to top speed, press ~k~~VEHICLE_HANDBRAKE~ to handbrake around the cone and then return.
+
+different on pc
+DS 636875949
+~<~ Counterclockwise
+~k~~GO_LEFT~ Counterclockwise
+
+different on pc
+DS 1391641659
+~>~ Clockwise
+~k~~GO_RIGHT~ Clockwise
+
+different on pc
+DS 3170673943
+~T~
+~k~~VEHICLE_ENTER_EXIT~
+
+different on pc
+DS 580399284
+~X~
+~k~~PED_SPRINT~
+
+different on pc
+DSERT5 2915260153
+~s~Release ~X~ now.
+~s~Release ~k~~VEHICLE_ACCELERATE~ now.
+
+different on pc
+DSERT5 2863567584
+~s~Slow down and hover over the ~y~target zone~s~ by holding ~A~~s~ to auto-level the helicopter.
+~s~Slow down and hover over the ~y~target zone~s~ by holding ~k~~VEHICLE_HORN~~s~ to auto-level the helicopter.
+
+different on pc
+DSERT5 2506246277
+~s~Press and hold ~X~ to accelerate along the runway.
+~s~Press and hold ~k~~VEHICLE_ACCELERATE~ to accelerate along the runway.
+
+different on pc
+DSERT5 2612641975
+~s~Press ~C~ to retract the landing gear.
+~s~Press ~k~~TOGGLE_SUBMISSIONS~ to retract the landing gear.
+
+different on pc
+DSERT5 3192855366
+~s~Press and hold ~Q~ to slow your descent.
+~s~Press and hold ~k~~VEHICLE_BRAKE~ to slow your descent.
+
+different on pc
+DSERT5 658918140
+Press and hold ~Q~ to slow your descent.
+Press and hold ~k~~VEHICLE_BRAKE~ to slow your descent.
+
+different on pc
+DSERT5 3348341730
+Press ~M~ to turn left and ~V~ to turn right using the rudder.
+Press ~k~~VEHICLE_LOOKLEFT~ to turn left and ~k~~VEHICLE_LOOKRIGHT~ to turn right using the rudder.
+
+different on pc
+DSERT5 2962527092
+~s~Hold ~Q~ to lower your speed until the plane slowly descends.
+~s~Hold ~k~~VEHICLE_BRAKE~ to lower your speed until the plane slowly descends.
+
+different on pc
+DSERT5 698204878
+~s~Press ~C~ to extend the landing gear.
+~s~Press ~k~~TOGGLE_SUBMISSIONS~ to extend the landing gear.
+
+different on pc
+DSERT5 2688151070
+~s~Hold the left analog stick diagonally down and left to bank round and head for the next ~y~corona.
+~s~Hold ~k~~VEHICLE_STEERDOWN~ and ~k~~VEHICLE_STEERLEFT~ to bank round and head for the next ~y~corona.
+
+different on pc
+DSERT5 959496100
+~s~Hold the left analog stick diagonally down and right to bank round and head for the next ~y~corona.
+~s~Hold ~k~~VEHICLE_STEERDOWN~ and ~k~~VEHICLE_STEERRIGHT~ to bank round and head for the next ~y~corona.
+
+different on pc
+DSERT5 2844762677
+~s~Bank hard left to find the next ~y~corona.~N~~s~Press ~M~ to use the rudder to turn more quickly.
+~s~Bank hard left to find the next ~y~corona.~N~~s~Press ~k~~VEHICLE_LOOKLEFT~ to use the rudder to turn more quickly.
+
+different on pc
+DSERT5 814150543
+~s~Bank hard right to find the next ~y~corona.~N~~s~Press ~V~ to use the rudder to turn more quickly.
+~s~Bank hard right to find the next ~y~corona.~N~~s~Press ~k~~VEHICLE_LOOKRIGHT~ to use the rudder to turn more quickly.
+
+different on pc
+DSERT5 3015025569
+Press ~K~ to fire the guns and ~O~ to fire rockets.
+Press ~k~~VEHICLE_FIREWEAPON_ALT~ to fire the guns and ~k~~PED_FIREWEAPON~ to fire rockets.
+
+different on pc
+DSERT5 3126669683
+~s~Press and hold ~X~ to maintain your height, keep the plane level and head for the first ~y~corona.
+~s~Press and hold ~k~~VEHICLE_ACCELERATE~ to maintain your height, keep the plane level and head for the first ~y~corona.
+
+different on pc
+DSERT5 592732361
+~s~As soon as you hit the corona, pull back quickly and hold the left analog stick to do a loop-the-loop.
+~s~As soon as you hit the corona, use ~k~~VEHICLE_STEERDOWN~ to pull up quickly and hold to do a loop-the-loop.
+
+different on pc
+DSERT5 142160650
+~s~As soon as you hit the corona, push the left analog stick directly left quickly and hold to do a barrel roll.
+~s~As soon as you hit the corona, hold ~k~~VEHICLE_STEERLEFT~ to do a barrel roll.
+
+different on pc
+DSERT5 2138964892
+~s~Push and hold the left analog stick directly left now.
+~s~Push and hold ~k~~VEHICLE_STEERLEFT~ now.
+
+different on pc
+DSERT5 1627977412
+Pull back on the left analog stick to lift your legs up and move forward.
+Push ~k~~GO_BACK~ to lift your legs up and move forward.
+
+different on pc
+DSERT5 2259737539
+~s~Pull back on the left analog stick to slow your descent and push left and right to rotate.
+~s~Use ~k~~GO_BACK~ to slow your descent and push ~k~~GO_LEFT~ and ~k~~GO_RIGHT~ to rotate.
+
+different on pc
+DSERT5 4112295860
+~<~ ~>~ Navigate
+Movement Controls Navigate
+
+different on pc
+DSERT5 1813378574
+~T~ Exit
+~k~~VEHICLE_ENTER_EXIT~ Exit
+
+different on pc
+DSERT5 454215320
+~X~ Start
+~k~~PED_SPRINT~ Start
+
+different on pc
+DSERT5 208345407
+~s~When the plane's tail rises, pull back on the left analog stick to lift the nose and take off.
+~s~When the plane's tail rises, push ~k~~VEHICLE_STEERDOWN~ to lift the nose and take off.
+
+different on pc
+DSERT5 2070686121
+~s~Pull back on the left analog stick now.
+~s~Push ~k~~VEHICLE_STEERDOWN~ now.
+
+different on pc
+DSERT5 2080501168
+~s~Push the left analog stick forward to descend to the next ~y~corona.
+~s~Push ~k~~VEHICLE_STEERUP~ to descend to the next ~y~corona.
+
+different on pc
+DSERT5 3971936289
+~s~Pull back on the left analog stick and press and hold ~X~ to climb back up to the final ~y~corona.
+~s~Push ~k~~VEHICLE_STEERDOWN~ and press and hold ~k~~VEHICLE_ACCELERATE~ to climb back up to the final ~y~corona.
+
+different on pc
+DSERT5 3458592713
+~s~Pull back on the left analog stick gradually to reduce the rate of descent.
+~s~Push ~k~~VEHICLE_STEERDOWN~ to reduce the rate of descent.
+
+different on pc
+DSERT5 3106070367
+~s~Push and hold the left analog stick forward to keep the plane's nose down.
+~s~Push and hold ~k~~VEHICLE_STEERUP~ to keep the plane's nose down.
+
+different on pc
+DSERT5 1462550131
+~s~Press ~M~ to turn left and ~V~ to turn right using the rudder.
+~s~Press ~k~~VEHICLE_LOOKLEFT~ to turn left and ~k~~VEHICLE_LOOKRIGHT~ to turn right using the rudder.
+
+different on pc
+DSERT5 1230654251
+~s~Press ~M~ to turn left and ~V~ to turn right using the rudder.
+~s~Press ~k~~VEHICLE_LOOKLEFT~ to turn left and ~k~~VEHICLE_LOOKRIGHT~ to turn right using the rudder.
+
+different on pc
+DSERT5 3275288323
+~s~Press and hold ~X~ to accelerate upward.
+~s~Press and hold ~k~~VEHICLE_ACCELERATE~ to accelerate upward.
+
+different on pc
+DSERT5 758550063
+~s~Release ~X~ to stop rising and level off.
+~s~Release ~k~~VEHICLE_ACCELERATE~ to stop rising and level off.
+
+different on pc
+DSERT5 3008502668
+~s~Rotate the helicopter 180 degrees by using ~M~ and ~V~ to turn left and right.
+~s~Rotate the helicopter 180 degrees by using ~k~~VEHICLE_LOOKLEFT~ and ~k~~VEHICLE_LOOKRIGHT~ to turn left and right.
+
+different on pc
+DSERT5 3293915930
+Press ~M~ to turn left and ~V~ to turn right.
+Press ~k~~VEHICLE_LOOKLEFT~ to turn left and ~k~~VEHICLE_LOOKRIGHT~ to turn right.
+
+different on pc
+DSERT5 1566341792
+~s~Push and hold the left analog stick forward to tilt the helicopter at 45 degrees.
+~s~Push and hold ~k~~VEHICLE_STEERUP~ to tilt the helicopter at 45 degrees.
+
+different on pc
+DSERT5 710625846
+~s~Press and hold ~X~ to go forward and head for the ~y~corona.
+~s~Press and hold ~k~~VEHICLE_ACCELERATE~ to go forward and head for the ~y~corona.
+
+different on pc
+DSERT5 3454232369
+~s~If you need to descend, hold ~Q~
+~s~If you need to descend, hold ~k~~VEHICLE_BRAKE~.
+
+different on pc
+DSERT5 1151398860
+~s~Push the left analog stick forward and press ~X~ to maintain your forward speed.
+~s~Push ~k~~VEHICLE_STEERUP~ and press ~k~~VEHICLE_ACCELERATE~ to maintain your forward speed.
+
+different on pc
+DSERT5 885655363
+~s~Hold ~Q~ to descend slowly and land.~N~Land in the ~y~target area ~s~for extra points.
+~s~Hold ~k~~VEHICLE_BRAKE~ to descend slowly and land.~N~Land in the ~y~target area ~s~for extra points.
+
+different on pc
+DSERT5 1137522645
+~s~If you start to descend too quickly, release ~Q~ and hold ~X~ to slow your descent.
+~s~If you start to descend too quickly, release ~k~~VEHICLE_BRAKE~ and hold ~k~~VEHICLE_ACCELERATE~ to slow your descent.
+
+different on pc
+DSERT5 3670304367
+Press ~Q~ to descend and ~X~ to ascend.
+Press ~k~~VEHICLE_BRAKE~ to descend and ~k~~VEHICLE_ACCELERATE~ to ascend.
+
+different on pc
+DSERT5 3300037431
+~s~Press ~K~ to fire the guns and ~O~ to fire rockets.
+~s~Press ~k~~VEHICLE_FIREWEAPON_ALT~ to fire the guns and ~k~~PED_FIREWEAPON~ to fire rockets.
+
+different on pc
+DSERT5 1414746207
+~s~Pull back on the left analog stick now.
+~s~Push ~k~~VEHICLE_STEERDOWN~ now.
+
+different on pc
+DSERT5 2288735217
+~s~While freefalling, push the left analog stick forward to dive forward.
+~s~While freefalling, push ~k~~GO_FORWARD~ to dive forward.
+
+different on pc
+DSERT5 291635787
+~s~Pull back on the left analog stick to move backward and push left and right to rotate.
+~s~Push ~k~~GO_BACK~ to move backward and use ~k~~GO_LEFT~ and ~k~~GO_RIGHT~ to rotate.
+
+different on pc
+DSERT5 1717908189
+~s~Press ~O~ to open the parachute now.
+~s~Press ~k~~PED_FIREWEAPON~ to open the parachute now.
+
+different on pc
+DSERT5 2399573992
+~s~Use the left analog stick to guide the parachute left and right.
+~s~Use ~k~~GO_LEFT~ and ~k~~GO_RIGHT~ to guide the parachute left and right.
+
+different on pc
+DSERT5 370132562
+~s~Pull back on the left analog stick to lift your legs up and move forward.
+~s~Push ~k~~GO_BACK~ to lift your legs up and move forward.
+
+different on pc
+DSERT5 3135526823
+~s~If you need to bank, hold the left analog stick diagonally up and either left or right.
+~s~If you need to bank, hold ~k~~VEHICLE_STEERDOWN~ and steer either left or right.
+
+different on pc
+DSERT5 2343426825
+~T~
+~k~~VEHICLE_ENTER_EXIT~
+
+different on pc
+DSERT5 4239059871
+~X~
+~k~~PED_SPRINT~
+
+different on pc
+DSERT5 4224135046
+~<~ Counterclockwise
+~k~~GO_LEFT~ Counterclockwise
+
+different on pc
+DSERT5 1155856353
+~T~ View television
+~k~~VEHICLE_ENTER_EXIT~ View television
+
+different on pc
+DSERT5 1657699900
+~>~ Clockwise
+~k~~GO_RIGHT~ Clockwise
+
+different on pc
+DSERT5 3950020664
+~X~ Continue
+~k~~PED_SPRINT~ Continue
+
+different on pc
+DSERT5 2625091758
+~T~ Exit
+~k~~VEHICLE_ENTER_EXIT~ Exit
+
+different on pc
+DSERT5 3317990841
+~X~ Retry
+~k~~PED_SPRINT~ Retry
+
+different on pc
+DSERT6 4136567111
+Use ~C~ to raise and lower the landing gear.
+Use ~k~~TOGGLE_SUBMISSIONS~ to raise and lower the landing gear.
+
+different on pc
+DSERT8 4254701539
+~z~Do we have a plan here?
+~z~Hey, Truth, do we have a plan here?
+
+different on pc
+DSERT8 2106324760
+~z~Here you go, better stash it someplace fast!
+~z~Hey, here you go. You better stash it somewhere fast!
+
+different on pc
+DSERT8 3824116411
+~z~Was it too much to get a lift into town?
+~z~Ahh, was it too much to ask to get a lift into town?
+
+different on pc
+DSERT8 2348227397
+When goggles are selected, press ~o~ to toggle thermal vision on and off.
+When goggles are selected, press ~k~~PED_FIREWEAPON~ to toggle thermal vision on and off.
+
+different on pc
+DSERT8 2464950788
+Press ~x~ to increase thrust - this will make you ascend.
+Press ~k~~PED_SPRINT~ to increase thrust - this will make you ascend.
+
+different on pc
+DSERT8 39008149
+To move in a direction with the jet pack use the ~H~left analog stick ~w~while in the air.
+To move in a direction with the jet pack use the movement controls while in the air.
+
+different on pc
+DSERT8 1968441091
+To descend quickly press ~q~
+To descend quickly press ~k~~PED_JUMPING~.
+
+different on pc
+DSERT8 361991910
+To strafe right while in the jetpack press ~h~~V~~w~.
+To strafe right while in the jetpack press ~k~~GO_RIGHT~.
+
+different on pc
+DSERT8 1653915248
+To strafe left while in the jetpack press ~h~~M~~w~.
+To strafe left while in the jetpack press ~k~~GO_LEFT~.
+
+different on pc
+DSERT8 4221431754
+To hover in the jetpack hold down ~h~~V~ and ~M~ simultaneously~w~.
+To hover in the jetpack hold down ~k~~PED_CYCLE_WEAPON_RIGHT~ and ~k~~PED_CYCLE_WEAPON_LEFT~.
+
+different on pc
+DSERT8 2620576348
+Press ~X~ to ascend vertically.
+Press ~k~~PED_SPRINT~ to ascend vertically.
+
+different on pc
+DSERT8 3946177226
+Press ~Q~ to hover.
+Hold ~k~~PED_CYCLE_WEAPON_LEFT~ and ~k~~PED_CYCLE_WEAPON_RIGHT~ to hover.
+
+different on pc
+DSERT8 39208959
+Press ~V~ and ~M~ to strafe right and left respectively.
+Press ~k~~PED_CYCLE_WEAPON_LEFT~ and ~k~~PED_CYCLE_WEAPON_RIGHT~ to strafe left and right respectively.
+
+different on pc
+DSERT8 716762286
+~s~Go and find the ~y~'black project'~s~.
+~s~Go and find the ~g~'black project'~s~.
+
+different on pc
+DSERT9 3685145864
+~z~Ah, what's Toreno up to?
+~z~Ah, what's Toreno up to now?
+
+different on pc
+DSERT9 3294321703
+~s~Press ~T~ to plant the bomb.
+~s~Press ~k~~VEHICLE_ENTER_EXIT~ to plant the bomb.
+
+different on pc
+DSERT9 2750484955
+~s~kill the guard with the parachute.
+~s~Kill the guard with the parachute.
+
+different on pc
+DSERT9 1424245174
+~S~Then Plant the bomb at the end of the plane and jump out to safety.
+~S~Then plant the bomb at the end of the plane and jump out to safety.
+
+different on pc
+DUAL 393610213
+~w~~<~~u~~d~~>~ Navigate~n~~x~ Select
+~w~~<~~u~~d~~>~ Navigate~n~~k~~PED_SPRINT~ Select
+
+different on pc
+DUAL 1618031475
+~w~~<~~>~ Rotate~n~~x~ Thrust~n~~o~ Shoot~n~~t~ Exit.
+~w~~<~~>~ Rotate~n~~k~~PED_SPRINT~ Thrust~n~~k~~PED_FIREWEAPON~ Shoot~n~~k~~VEHICLE_ENTER_EXIT~ Exit.
+
+different on pc
+DUAL 4185416393
+~w~~t~ Back
+~w~~k~~VEHICLE_ENTER_EXIT~ Back
+
+different on pc
+DUAL 2390708831
+~w~~u~~d~ Navigate~n~~x~ Select
+~w~~u~~d~ Navigate~n~~k~~PED_SPRINT~ Select
+
+different on pc
+FARLIE2 357042435
+When you're close to a ~r~package~w~, tap ~K~ to snatch it.
+When you're close to a ~r~package~w~, tap ~k~~VEHICLE_FIREWEAPON_ALT~ to snatch it.
+
+different on pc
+FARLIE2 3533676983
+~s~Tap ~K~ to snatch the ~r~package.
+~s~Tap ~k~~VEHICLE_FIREWEAPON_ALT~ to snatch the ~r~package.
+
+different on pc
+FARLIE3 1193209795
+Press the START button to pause the game and look at your map
+Press the Esc button to pause the game and look at your map.
+
+different on pc
+FIRETRK 2686016960
+To turn on this vehicle's sirens tap ~A~.
+To turn on this vehicle's sirens tap ~k~~VEHICLE_HORN~.
+
+different on pc
+FIRETRK 957353082
+To turn on this vehicle's sirens tap ~K~.
+To turn on this vehicle's sirens tap ~k~~VEHICLE_HORN~.
+
+different on pc
+FIRETRK 1654773950
+Use the ~J~ to fire the water cannon and the ~h~right analog stick ~w~to aim the water cannon.
+Use ~k~~PED_FIREWEAPON~ to fire the water cannon and the camera movement controls to aim the water cannon.
+
+different on pc
+FIRETRK 315305009
+Use ~h~~o~ or ~K~ ~w~to fire the water cannon and the ~h~right analog stick ~w~to aim the water cannon.
+Use ~k~~PED_FIREWEAPON~ or ~k~~VEHICLE_FIREWEAPON_ALT~ to fire the water cannon and the camera movement controls to aim the water cannon.
+
+different on pc
+GARAGE1 406842682
+Press ~A~ to sound car horn.
+Press ~k~~VEHICLE_HORN~ to sound car horn.
+
+different on pc
+GARAGE1 2910202714
+~r~Jethro's Dead!
+~r~Jethro's dead!
+
+different on pc
+GARAGE1 3664845772
+~r~Dwayne's Dead!
+~r~Dwayne's dead!
+
+different on pc
+GARAGE1 1131956854
+~r~Zero's Dead!
+~r~Zero's dead!
+
+different on pc
+GARAGE1 880769760
+~r~Truth's Dead!
+~r~Truth's dead!
+
+different on pc
+GARAGE2 3237579902
+~z~Argh, I'm gonna barf!
+~z~Oh god! Argh, I'm gonna barf!
+
+different on pc
+GARAGE2 3086925032
+~z~My suit, ruined!
+~z~Oh, my suit, it's ruined!
+
+different on pc
+GARAGE2 658612601
+~z~My own shit!
+~z~Oh, my own shit!
+
+different on pc
+GARAGE2 1346802159
+~z~Shouldn't have had that curry!
+~z~Shouldn't have had that goddam curry!
+
+different on pc
+GARAGE2 3458335820
+~z~Oh God, sweetcorn!
+~z~Oh God, is that corn?
+
+different on pc
+GARAGE2 3106223322
+~z~Urgh, all in my mouth!
+~z~Urgh, it's all in my mouth!
+
+different on pc
+GRAV 3298376359
+~w~~t~ Back
+~w~~k~~VEHICLE_ENTER_EXIT~ Back
+
+different on pc
+GRAV 2629029272
+~w~~<~~u~~d~~>~ Move~n~~x~ Boost~n~~q~ Slow
+~w~Movement Controls Move~n~~k~~PED_SPRINT~ Boost~n~~k~~PED_JUMPING~ Slow
+
+different on pc
+GYM 1904283830
+Run and press ~t~!
+Run and press ~k~~VEHICLE_ENTER_EXIT~!
+
+different on pc
+GYM 1754931703
+Whilst running, lock on to a target with ~J~ then press ~t~
+Whilst running, lock on to a target with ~k~~PED_LOCK_TARGET~ then press ~k~~VEHICLE_ENTER_EXIT~
+
+different on pc
+GYM 530387297
+Lock on to a downed opponent using ~J~ then press ~t~
+Lock on to a downed opponent using ~k~~PED_LOCK_TARGET~ then press ~k~~VEHICLE_ENTER_EXIT~
+
+different on pc
+GYM 2257862875
+Lock on to a target by pressing ~J~ then press ~t~ repeatedly.
+Lock on to a target by pressing ~k~~PED_LOCK_TARGET~ then press ~k~~VEHICLE_ENTER_EXIT~ repeatedly.
+
+different on pc
+HEIST1 3849996335
+Move close to the receptionist and press ~K~ to restart conversation
+Move close to the receptionist and press ~k~~PED_ANSWER_PHONE~ to restart conversation.
+
+different on pc
+HEIST1 2952143604
+Press ~<~ to answer NO or ~>~ for YES
+Press ~k~~CONVERSATION_NO~ to answer NO or ~k~~CONVERSATION_YES~ for YES.
+
+different on pc
+HEIST1 1923649959
+Move close to the receptionist and press ~J~ to restart conversation
+Move close to the receptionist and press ~k~~PED_LOCK_TARGET~ to restart conversation.
+
+different on pc
+HEIST1 4110721246
+~s~Face the blueprints then hold ~J~ and press ~o~ to take a photograph.
+~s~Face the blueprints then hold ~k~~PED_LOCK_TARGET~ and press ~k~~PED_FIREWEAPON~ to take a photograph.
+
+different on pc
+HEIST2 627238504
+~z~Hey, where's the coffee and doughnuts?
+~z~Hey, where's the coffee and donuts?
+
+different on pc
+HEIST2 492758970
+When you reach the corona press ~t~ to jump from the plane.
+When you reach the corona press ~k~~VEHICLE_ENTER_EXIT~ to jump from the plane.
+
+different on pc
+HEIST2 2787840453
+~s~Press ~t~ to jump from the plane.
+~s~Press ~k~~VEHICLE_ENTER_EXIT~ to jump from the plane.
+
+different on pc
+HEIST2 3040928855
+Press ~o~ to open chute
+Press ~k~~PED_FIREWEAPON~ to open chute.
+
+different on pc
+HEIST2 153237302
+~s~When close to a ~y~generator~s~ press ~t~ to plant the charges. You need one on each ~y~generator~s~.
+~s~When close to a ~y~generator~s~ press ~k~~VEHICLE_ENTER_EXIT~ to plant the charges. You need one on each ~y~generator~s~.
+
+different on pc
+HEIST2 240120623
+~t~ Plant Explosives
+~k~~VEHICLE_ENTER_EXIT~ Plant Explosives
+
+different on pc
+HEIST3 565974248
+Press ~o~ to swing the dildo.
+Press ~k~~PED_FIREWEAPON~ to swing the dildo.
+
+different on pc
+HEIST3 4253292358
+~s~The gimps making a run for it, don't let him get away!
+~s~The gimp's making a run for it, don't let him get away!
+
+different on pc
+HEIST4 3860355998
+~z~Come in control; I've just been dealing with a drunk at the pizza parlor near Linden Station
+~z~Come in control; I was doing a walk-the-line on some drunk at the pizza place
+
+different on pc
+HEIST4 2131823140
+~z~and some punk just stole my bike!
+~z~and my bike's been stolen!
+
+different on pc
+HEIST5 1726566246
+Press ~T~ to use the gun.
+Press ~k~~VEHICLE_ENTER_EXIT~ to use the gun.
+
+different on pc
+HEIST5 300842992
+Use the left analog stick or the right analog stick to move.~N~Press ~K~ or ~o~ to fire.~n~Press ~t~ to Quit
+Use the camera movement controls to move the crosshair.~N~Press ~k~~PED_FIREWEAPON~ to fire.~n~Press ~k~~VEHICLE_ENTER_EXIT~ to Quit.
+
+different on pc
+HEIST5 2747956617
+~s~The van has to be on it's wheels!
+~s~The van has to be on its wheels!
+
+different on pc
+HEIST9 4202117027
+Push the ~h~right analog stick~s~ up to lift the door
+Push ~k~~VEHICLE_TURRETDOWN~ to lift the door
+
+different on pc
+HEIST9 726807751
+~s~Press ~o~ when falling to open the parachute.
+~s~Press ~k~~PED_FIREWEAPON~ when falling to open the parachute.
+
+different on pc
+HEIST9 62517244
+~s~Select the night-vision goggles and press ~o~ to activate.
+~s~Select the night-vision goggles and press ~k~~PED_FIREWEAPON~ to activate.
+
+different on pc
+HEIST9 1669228057
+~s~Press ~o~ to activate the night-vision goggles.
+~s~Press ~k~~PED_FIREWEAPON~ to activate the night-vision goggles.
+
+different on pc
+HEIST9 1440958586
+~t~ Use Swipecard.
+~k~~VEHICLE_ENTER_EXIT~ Use Swipecard.
+
+different on pc
+INTRO1 3452096016
+You can do a bunny hop by holding down ~K~ then releasing it. The longer you hold the button the higher the jump.
+You can do a bunny hop by holding down ~k~~VEHICLE_FIREWEAPON_ALT~ then releasing it. The longer you hold the button the higher the jump.
+
+different on pc
+KICKSTT 4104810058
+~r~You failed to break the record
+~r~You failed to break the record!
+
+different on pc
+KICKSTT 446959462
+~s~Collect as many points as possible
+~s~Collect as many points as possible.
+
+different on pc
+LAFIN1 1293034565
+~z~This is the Los Santos Police Department;
+~z~This is the Los Santos Police Department; Stay where you all are!
+
+different on pc
+LAFIN1 696181057
+~z~This is the LSPD do not, HEY! WHAT THE FUCK? TOO LOW!!
+~z~This is the LSPD do not, HEY! WHAT THE FUCK? TOO LOW, YOU'LL KILL US ALL!
+
+different on pc
+LAFIN1 4291927569
+~z~Waste of good doughnuts.
+~z~Waste of good donuts.
+
+different on pc
+LAFIN1 1494241279
+To look around the car use the ~h~left analog stick~w~. To fire press ~o~
+To look around the car use the camera movement controls. To fire press ~k~~PED_FIREWEAPON~.
+
+different on pc
+LAFIN1 773291881
+You can also use the ~h~right analog stick ~w~ to look around the car and ~K~ to fire.
+You can also use ~k~~VEHICLE_FIREWEAPON_ALT~ to fire.
+
+different on pc
+LAFIN1 1074495166
+To move the crosshair use the ~h~right analog stick~w~, to fire press ~K~.
+To move the crosshair use the camera movement controls, to fire press ~k~~PED_FIREWEAPON~.
+
+different on pc
+LOWR 2447951226
+~q~ Increase Wager~N~~o~ Decrease Wager~N~~x~ Proceed~N~~t~ Exit
+~k~~PED_JUMPING~ Increase Wager~N~~k~~PED_FIREWEAPON~ Decrease Wager~N~~k~~PED_SPRINT~ Proceed~N~~k~~VEHICLE_ENTER_EXIT~ Exit
+
+different on pc
+LOWR 1305528020
+Use the ~h~right analog stick~s~ to activate the car hydraulics.
+Use the Special Ctrls to activate the car hydraulics.
+
+different on pc
+LOWR 4294231213
+Push the ~h~right analog stick~s~ in the direction shown.
+Push the suspension controls in the direction shown.
+
+different on pc
+LOWR 2297689147
+Try to move the ~h~right analog stick~h~ in time with the music.
+Try to move the suspension in time with the music.
+
+different on pc
+MAN_1 142197226
+~z~Element of surprise.
+~z~Good idea - the element of surprise.
+
+different on pc
+MAN_1 2153158989
+~r~Big Poppa~s~ is downstairs, take him out..
+~r~Big Poppa~s~ is downstairs, take him out.
+
+different on pc
+MAN_1 2887126679
+~s~The ~r~owner~s~ of the mansion is downstairs, take him out..
+~s~The ~r~owner~s~ of the mansion is downstairs, take him out.
+
+different on pc
+MAN_2 1606477105
+Moving the right analog stick down for a few seconds will position the thrusters for hover.
+Use ~k~~VEHICLE_TURRETUP~ and ~k~~VEHICLE_TURRETDOWN~ to position the thrusters for hover.
+
+different on pc
+MAN_2 3335107723
+Press and hold ~J~ - this will ~g~target an enemy ship~s~ and soon achieve ~r~lock-on~s~.
+Press and hold ~k~~VEHICLE_HANDBRAKE~ - this will ~g~target an enemy ship~s~ and soon achieve ~r~lock-on~s~.
+
+different on pc
+MAN_2 2983101469
+Keep ~J~ held to maintain ~r~lock-on~s~ and press ~K~ to fire. Each ship will need a few hits to destroy it.
+Keep ~k~~VEHICLE_HANDBRAKE~ held to maintain ~r~lock-on~s~ and press ~k~~VEHICLE_FIREWEAPON_ALT~ to fire. Each ship will need a few hits to destroy it.
+
+different on pc
+MAN_2 1990038364
+Use ~C~ to raise and lower the landing gear.
+Use ~k~~TOGGLE_SUBMISSIONS~ to raise and lower the landing gear.
+
+different on pc
+MAN_2 4019503846
+Use right analog stick to control the attitude of the thruster nozzles between down (for take off and landing) and back (for forward thrust).
+Use ~k~~VEHICLE_TURRETUP~ and ~k~~VEHICLE_TURRETDOWN~ to control the attitude of the thruster nozzles between down (for take off and landing) and back (for forward thrust).
+
+different on pc
+MAN_2 147544012
+Using ~C~ raises and lowers the landing gear.
+Using ~k~~TOGGLE_SUBMISSIONS~ raises and lowers the landing gear.
+
+different on pc
+MAN_2 2559832688
+Press and hold ~J~ to target an enemy. When the target changes to red it is locked on. Press ~K~ to fire homing missiles.
+Press and hold ~k~~VEHICLE_HANDBRAKE~ to target an enemy. When the target changes to red it is locked on. Press ~k~~VEHICLE_FIREWEAPON_ALT~ to fire homing missiles.
+
+different on pc
+MAN_2 2144102234
+Press ~o~ to launch countermeasures.
+Press ~k~~PED_FIREWEAPON~ to launch countermeasures.
+
+different on pc
+MAN_2 26911690
+Press ~C~ to lower your landing gear.
+Press ~k~~TOGGLE_SUBMISSIONS~ to lower your landing gear.
+
+different on pc
+MAN_2 2813890616
+~s~The ~r~Hydra's~s~ are on your tail. Take them out!
+~s~The ~r~Hydras~s~ are on your tail. Take them out!
+
+different on pc
+MAN_2 3502219438
+~r~You destroyed all the Hydra's!
+~r~You destroyed all the Hydras!
+
+different on pc
+MENU2P 1486285666
+Push the ~H~left analog stick~w~ up or down to select an option.~N~~X~ Select~N~~T~ Quit
+Use ~k~~GO_FORWARD~ and ~k~~GO_BACK~ to select select an option.~N~~k~~PED_SPRINT~ Select~N~~k~~VEHICLE_ENTER_EXIT~ Quit Press ~k~~PED_LOOKBEHIND~ to start the challenge mode.
+
+different on pc
+OTB 3482241120
+Press ~x~ to continue.
+Press ~k~~PED_SPRINT~ to continue.
+
+different on pc
+OTB 2019625908
+~x~ Select
+~k~~PED_SPRINT~ Select
+
+different on pc
+OTB 3685977470
+~t~ Back
+~k~~VEHICLE_ENTER_EXIT~ Back
+
+different on pc
+OTB 578078791
+~t~ Exit
+~k~~VEHICLE_ENTER_EXIT~ Exit
+
+different on pc
+OTB 3201494464
+~<~~u~~d~~>~ Navigate
+Movement Controls Navigate
+
+different on pc
+OTB 1673874397
+~u~~d~ Navigate
+Movement Controls Navigate
+
+different on pc
+PIMP 2865392840
+~s~Head to the ~y~Four Dragon's~s~ now.
+~s~Head to the ~y~Four Dragons~s~ now.
+
+different on pc
+PIMP 3667957831
+~y~Pirates in Mens Pants~s~ next.
+~y~Pirates in Men's Pants~s~ next.
+
+different on pc
+POOL 2806920370
+Player 1 press ~x~ to continue.
+Player 1 press ~k~~PED_SPRINT~ to continue.
+
+different on pc
+POOL 3494446116
+Player 2 press ~x~ to continue.
+Player 2 press ~k~~PED_SPRINT~ to continue.
+
+different on pc
+POOL 3734146070
+~q~ Increase Wager~N~~o~ Decrease Wager~N~~x~ Proceed~N~~t~ Quit~N~Player 2 press the ~h~START~w~ button to play a 2 player game.
+~k~~PED_JUMPING~ Increase Wager~N~~k~~PED_FIREWEAPON~ Decrease Wager~N~~k~~PED_SPRINT~ Proceed~N~~k~~VEHICLE_ENTER_EXIT~ Quit
+
+different on pc
+POOL 1201397164
+~q~ Increase Wager~N~~o~ Decrease Wager~N~~x~ Proceed~N~~t~ Quit
+~k~~PED_JUMPING~ Increase Wager~N~~k~~PED_FIREWEAPON~ Decrease Wager~N~~k~~PED_SPRINT~ Proceed~N~~k~~VEHICLE_ENTER_EXIT~ Quit
+
+different on pc
+POOL 815590714
+left analog stick aims the cue.~N~~h~SELECT~w~ button to change view. ~N~~x~ Proceed to shooting.~N~~t~ Hold to quit.
+Use movement controls to aim the cue.~N~~k~~CAMERA_CHANGE_VIEW_ALL_SITUATIONS~ to change view. ~N~~k~~PED_SPRINT~ Proceed to shooting.~N~~k~~VEHICLE_ENTER_EXIT~ Hold to quit.
+
+different on pc
+POOL 2935519385
+Use the right analog stick to strike the cue ball.~N~Use the left analog stick to position cue tip.~N~~t~ Back to aiming.
+Use the view controls to strike the cue ball.~N~Use the movement controls to position cue tip.~N~~k~~VEHICLE_ENTER_EXIT~ Back to aiming.
+
+different on pc
+POOL 3657385999
+~x~ Continue.
+~k~~PED_SPRINT~ Continue.
+
+different on pc
+POOL 1089870261
+Use the left analog stick to position the cue ball.~N~~x~ Continue.~N~~t~ Hold to QUIT.
+Use the movement controls to position the cue ball.~N~~k~~PED_SPRINT~ Continue.~N~~k~~VEHICLE_ENTER_EXIT~ Hold to QUIT.
+
+different on pc
+POOL 938551587
+~q~ Display information.
+~k~~PED_JUMPING~ Display information.
+
+different on pc
+QUARRY 678563862
+You are competing against your own best time. Press ~C~ to skip this mission.
+You are competing against your own best time. Press ~k~~PED_LOOKBEHIND~ to skip this mission.
+
+different on pc
+QUARRY 2977644972
+Use the right analog stick to raise and lower the Dumper's loader.
+Use ~k~~VEHICLE_TURRETUP~ and ~k~~VEHICLE_TURRETDOWN~ to raise and lower the Dumper's loader.
+
+different on pc
+QUARRY 2902740054
+~s~Your set a new best time - ~1~m ~1~s. The quarry missions have now been completed in ~1~m ~1~s.
+~s~You set a new best time - ~1~m ~1~s. The quarry missions have now been completed in ~1~m ~1~s.
+
+different on pc
+RACETOR 2214928271
+Use the ~h~left analog stick ~w~to select race.~n~~x~ Start Race~n~~t~ Quit
+Use ~k~~GO_LEFT~ or ~k~~GO_RIGHT~ to select race.~n~~k~~PED_SPRINT~ Start Race~n~~k~~VEHICLE_ENTER_EXIT~ Quit
+
+different on pc
+RIOT2 1061268298
+~s~Go and meet up with the veterano's at ~y~Unity Station~s~.
+~s~Go and meet up with the veteranos at ~y~Unity Station~s~.
+
+different on pc
+RIOT2 1365093021
+~s~Go and meet up with the ~b~veterano's~s~.
+~s~Go and meet up with the ~b~veteranos~s~.
+
+different on pc
+RIOT4 2332907923
+To use the night vision goggles select them from your inventory and press ~O~.
+To use the night vision goggles select them from your inventory and press ~k~~PED_FIREWEAPON~.
+
+different on pc
+RIOT4 1147056047
+To move the crosshair use the ~h~right analog stick~w~, to fire press ~K~.
+To move the crosshair use camera movement controls, to fire press ~k~~PED_FIREWEAPON~.
+
+different on pc
+RIOT4 875846432
+To look around use the ~h~right analog stick ~w~and to fire use ~K~.
+To look around use the camera movement controls, to fire press ~k~~PED_FIREWEAPON~.
+
+different on pc
+RIOT4 3799817309
+Ahh Im blinded!
+Ahh, I'm blinded!
+
+different on pc
+RUN_2P 4101111554
+Player 2 : Push the ~H~left analog stick~w~ left or right to select a character.~N~~X~ Select
+Player 2 : Push ~k~~GO_LEFT~ or ~k~~GO_RIGHT~ to select a character.~N~~k~~PED_SPRINT~ Select
+
+different on pc
+RUN_2P 4083110642
+~s~You can kiss the other player by standing near them and pressing ~K~.
+~s~You can kiss the other player by standing near them and pressing ~k~~PED_ANSWER_PHONE~.
+
+different on pc
+RYDER1 3456656716
+When wearing the ski mask gently push the left analog stick to sneak.
+Hold down the ~k~~SNEAK_ABOUT~ key to sneak.
+
+different on pc
+RYDER1 1257342173
+Press ~t~ to pick up the crate.
+Press ~k~~VEHICLE_ENTER_EXIT~ to pick up the crate.
+
+different on pc
+RYDER1 2918112380
+Press ~t~ to put the crate in the ~b~truck~s~.
+Press ~k~~VEHICLE_ENTER_EXIT~ to put the crate in the ~b~truck~s~.
+
+different on pc
+RYDER2 2937218685
+Press ~O~ when in the forklift truck to pick up and drop boxes.
+Press ~k~~PED_FIREWEAPON~ when in the forklift truck to pick up and drop boxes.
+
+different on pc
+RYDER2 3328418739
+Use ~M~ and ~V~ to look left and right.
+Use ~k~~VEHICLE_LOOKLEFT~ and ~k~~VEHICLE_LOOKRIGHT~ to look left and right.
+
+different on pc
+RYDER2 1600844297
+Press ~A~ to make Ryder throw a box.
+Press ~k~~VEHICLE_HORN~ to make Ryder throw a box.
+
+different on pc
+RYDER2 1858389642
+Press ~O~ to pick up and drop boxes.
+Press ~k~~PED_FIREWEAPON~ to pick up and drop boxes.
+
+different on pc
+RYDER2 2203251111
+To drop a box press ~A~.
+To drop a box press ~k~~VEHICLE_HORN~.
+
+different on pc
+RYDER2 2795776598
+Move the right analog stick up and down to control the truck's forks.
+Use ~k~~VEHICLE_TURRETUP~ and ~k~~VEHICLE_TURRETDOWN~ to control the truck's forks.
+
+different on pc
+RYDER3 1152453291
+Press ~K~ to power up your throw, then release ~K~ to throw.
+Press ~k~~PED_FIREWEAPON~ to power up your throw, then release ~k~~PED_FIREWEAPON~ to throw.
+
+different on pc
+SHTR 1989080329
+~w~~t~ Back
+~w~~k~~VEHICLE_ENTER_EXIT~ Back
+
+different on pc
+SHTR 782500406
+~w~~<~~u~~d~~>~ Move~n~~x~ Fire
+~w~Movement Controls Move~n~~k~~PED_SPRINT~ Fire
+
+different on pc
+SMOKE1 3788056303
+~z~Hey, I like a nice moustache myself!
+~z~Hey, I like a nice mustache myself!
+
+different on pc
+SMOKE2 3103211473
+Tap ~X~ quickly to use the Super Sprint.
+Tap ~k~~PED_SPRINT~ quickly to use the Super Sprint.
+
+different on pc
+SMOKE4 954625453
+To look around on the bike use the ~h~left analog stick~w~. To fire press ~o~
+To look around on the bike use the camera movement controls. To fire press ~k~~PED_FIREWEAPON~.
+
+different on pc
+SMOKE4 1340169531
+You can also use the ~h~right analog stick ~w~ to look around on the bike and ~K~ to fire.
+You can also use ~k~~VEHICLE_FIREWEAPON_ALT~ to fire.
+
+different on pc
+SMOKE4 969059727
+If enemies are using cover it may be better to use precision aiming on the ~h~right analog stick ~w~whilst shooting.
+If enemies are using cover it may be better to use manual aiming whilst shooting.
+
+different on pc
+SMOKE4 1217173794
+To look around on the bike use the ~h~right analog stick. ~w~To fire use ~K~.
+To look around on the bike use the camera movement controls. ~w~To fire use ~k~~PED_FIREWEAPON~.
+
+different on pc
+STEAL2 720781361
+Press ~o~ or ~K~ to trigger a nitro.
+Press ~k~~PED_FIREWEAPON~ to trigger a nitro.
+
+different on pc
+STEAL4 3195237278
+Use ~x~ to lower the magnet.~N~Use ~q~ to raise the magnet.
+Use ~k~~PED_SPRINT~ to lower the magnet.~N~Use ~k~~PED_JUMPING~ to raise the magnet.
+
+different on pc
+STEAL4 3496964681
+Use ~x~ to lower the rope.
+Use ~k~~PED_SPRINT~ to lower the rope.
+
+different on pc
+STEAL4 1231430643
+Use ~q~ to raise the rope.
+Use ~k~~PED_JUMPING~ to raise the rope.
+
+different on pc
+STEAL4 1046549349
+Use ~o~ to release the container when in the correct position.
+Use ~k~~PED_FIREWEAPON~ to release the container when in the correct position.
+
+different on pc
+STEAL4 2684716742
+Press right or left on the left analog stick to rotate the crane.
+Press ~k~~GO_LEFT~ and ~k~~GO_RIGHT~ to rotate the crane.
+
+different on pc
+STEAL4 3607279184
+Push the left analog stick in the direction you want the crane to move.
+Push movement controls in the direction you want the crane to travel.
+
+different on pc
+STEAL4 2847132397
+Press the ~h~SELECT~w~ button to switch camera views.
+Press the ~k~~CAMERA_CHANGE_VIEW_ALL_SITUATIONS~ to switch camera views.
+
+different on pc
+STEAL4 3736402555
+Press ~t~ to exit the crane.
+Press ~k~~VEHICLE_ENTER_EXIT~ to exit the crane.
+
+different on pc
+STEAL5 3072424072
+Press ~O~ to drop a Stinger.
+Press ~k~~PED_FIREWEAPON~ to drop a Stinger.
+
+different on pc
+STRAP1 3149888163
+When they're on the green marker, press the correct buttons to dance.
+When the arrows are on the green marker, press the corresponding movement key to dance.
+
+different on pc
+STRAP1 582363929
+When in a conversation, press ~>~ to respond positively and ~<~ to respond negatively.
+When in a conversation, press ~k~~CONVERSATION_YES~ to respond positively and ~k~~CONVERSATION_NO~ to respond negatively.
+
+different on pc
+STRAP1 3985546640
+~s~Get a score of 4000 or greater to gain access to the sound van.
+~s~Get a score of 2500 or greater to gain access to the sound van.
+
+different on pc
+STRAP2 1977813166
+Press ~o~ to perform the stealth kill.
+Press ~k~~PED_FIREWEAPON~ to perform the stealth kill.
+
+different on pc
+STRAP2 48511032
+Perform the stealth kill by moving slowly towards the guard and pressing ~o~ when your arm is raised.
+Perform the stealth kill by moving slowly towards the guard while holding ~k~~PED_LOCK_TARGET~ and then pressing ~k~~PED_FIREWEAPON~ when your arm is raised.
+
+different on pc
+STRAP2 3738975126
+Using the ~h~right analog stick ~w~you can rotate the camera, this is for looking around corners and spotting enemies.
+Using the camera movement controls you can rotate the camera, this is for looking around corners and spotting enemies.
+
+different on pc
+STRAP2 935304867
+~s~To use the skateboard pick it up and select it from the weapons inventory items. Press ~K~ whilst over it to pick it up if your inventory is full.
+~s~To use the skateboard pick it up and select it from the weapons inventory items. Press ~k~~PED_ANSWER_PHONE~ whilst over it to pick it up if your inventory is full.
+
+different on pc
+STRAP2 1040831112
+To use the skateboard, select the it from your weapons inventory. Use the ~h~left analog stick ~w~ to steer the skateboard. Tapping ~x~ helps you pick up speed and ~q~ makes you jump.
+To use the skateboard, select the it from your weapons inventory. Use the movement controls to steer the skateboard. Tapping ~k~~PED_SPRINT~ helps you pick up speed and ~k~~PED_JUMPING~ makes you jump.
+
+different on pc
+STRAP3 2399402438
+~s~Press and hold ~t~ to bail out now!
+~s~Press and hold ~k~~VEHICLE_ENTER_EXIT~ to bail out now!
+
+different on pc
+STRAP3 4161063248
+~s~Keep your speed up to the end of the pier then press and hold ~t~ to bail out.
+~s~Keep your speed up to the end of the pier then press and hold ~k~~VEHICLE_ENTER_EXIT~ to bail out.
+
+different on pc
+STRAP3 252811581
+~s~Press ~t~ to bail out now!
+~s~Press ~k~~VEHICLE_ENTER_EXIT~ to bail out now!
+
+different on pc
+STRAP3 3903435834
+~s~Keep your speed up to the end of the pier then press ~t~ to bail out.
+~s~Keep your speed up to the end of the pier then press ~k~~VEHICLE_ENTER_EXIT~ to bail out.
+
+different on pc
+STRAP4 2700133126
+~S~The house party will start at 8pm and finish at 5am at OG Loc's house. Get some new threads and a haircut.
+~S~Get some new threads and a haircut, then drop by OG Loc's house party between 8pm and 6am.
+
+different on pc
+SWEET1 4115966169
+Press ~J~ to target enemies then press ~o~ to spray the gang member in the face.
+Press ~k~~PED_FIREWEAPON~ to spray the gang member in the face.
+
+different on pc
+SWEET1 2347095140
+Press ~J~ to lock on and ~o~ to spray the tag.
+Look at the tag and hold ~k~~PED_FIREWEAPON~ to spray it.
+
+different on pc
+SWEET1 1709946184
+Keep ~o~ pressed until the tag is completely sprayed over.
+Keep ~k~~PED_FIREWEAPON~ pressed until the tag is completely sprayed over.
+
+different on pc
+SWEET1 2091998346
+Stand in front of the fence and press ~Q~ to climb the fence.
+Stand in front of the fence and press ~k~~PED_JUMPING~ to climb the fence.
+
+different on pc
+SWEET1 3854044464
+Press ~Q~ to climb onto the wall.
+Press ~k~~PED_JUMPING~ to climb onto the wall.
+
+different on pc
+SWEET2 683120092
+Getting a high ~h~gun skill~w~ will increase your ability with weapons. Press ~K~ on foot to view your weapon skill.
+Getting a high ~h~gun skill~w~ will increase your ability with weapons. Press ~k~~PED_ANSWER_PHONE~ on foot to view your weapon skill.
+
+different on pc
+SWEET2 802836933
+Press ~J~ to target and ~o~ or ~K~ to fire.
+Press ~k~~PED_LOCK_TARGET~ to target and ~k~~PED_FIREWEAPON~ to fire.
+
+different on pc
+SWEET2 3067281535
+While locked on you can cycle through targets by using ~M~ or ~V~.
+While locked on you can cycle through targets by using ~k~~PED_CYCLE_WEAPON_LEFT~ or ~k~~PED_CYCLE_WEAPON_RIGHT~.
+
+different on pc
+SWEET2 3251908841
+To manually aim hold down ~J~ and use the ~h~right analog stick~w~ to aim.
+To manually aim hold down ~k~~PED_LOCK_TARGET~ and use the camera movement controls to aim.
+
+different on pc
+SWEET2 2982069350
+You can increase your accuracy by crouching, press ~A~ to crouch.
+You can increase your accuracy by crouching, press ~k~~PED_DUCK~ to crouch.
+
+different on pc
+SWEET2 870245440
+If you fire your weapon continuously the recoil of the gun will effect your accuracy. To be as accurate as possible use short bursts of fire.
+If you fire your weapon continuously the recoil of the gun will affect your accuracy. To be as accurate as possible use short bursts of fire.
+
+different on pc
+SWEET4 2417122306
+Press ~M~ or ~V~ to look left or right when in a car.
+Press ~k~~VEHICLE_LOOKLEFT~ or ~k~~VEHICLE_LOOKRIGHT~ to look left or right when in a car.
+
+different on pc
+SWEET5 2002377082
+Use low walls and objects for cover. Press ~A~ to crouch.
+Use low walls and objects for cover. Press ~k~~PED_DUCK~ to crouch.
+
+different on pc
+SWEET6 507150532
+Press ~A~ to lock the car's hydraulics in place.
+Press ~k~~VEHICLE_HORN~ to lock the car's hydraulics in place.
+
+different on pc
+SWEET6 3474949024
+Move the right analog stick to control the hydraulic suspension. Press ~C~ to make it hop!
+Move the suspension controls to control the hydraulic suspension. Press ~k~~TOGGLE_SUBMISSIONS~ to make it hop!
+
+different on pc
+SWEET6 3088626486
+~q~ Increase Wager~N~~o~ Decrease Wager~N~~x~ Proceed
+~k~~PED_JUMPING~ Increase Wager~N~~k~~PED_FIREWEAPON~ Decrease Wager~N~~k~~PED_SPRINT~ Proceed
+
+different on pc
+SWEET6 1604361777
+Push the right analog stick in time with the music.
+Use the suspension controls to bounce in time with the music.
+
+different on pc
+SWEET6 3590632161
+Push the right analog stick in the direction shown.
+Use the suspension controls in the direction shown.
+
+different on pc
+SWEET6 2701361783
+Try to move the right analog stick in time with the music.
+Try to move the car in time with the music.
+
+different on pc
+SWEET6 1679863960
+Use the right analog stick to activate the car hydraulics.
+Use the Special Ctrls to activate the car hydraulics.
+
+different on pc
+SWEET6 1359364160
+~<~ ~>~ Change wager
+~k~~GO_LEFT~ ~k~~GO_RIGHT~ Change wager
+
+different on pc
+SWEET6 3479360995
+~x~ Place wager
+~k~~VEHICLE_ACCELERATE~ Place wager
+
+different on pc
+SWEET6 3093685621
+~q~ Max wager
+~k~~VEHICLE_BRAKE~ Max wager
+
+different on pc
+SWEET6 1650595326
+~t~ Quit
+~k~~VEHICLE_ENTER_EXIT~ Quit
+
+different on pc
+SWEET7 83222875
+Get your gang to follow you by pressing ~u~
+Get your gang to follow you by pressing ~k~~GROUP_CONTROL_FWD~.
+
+different on pc
+SWEET7 1479633879
+Press ~d~ to instruct your gang to stay in position or ~u~ to instruct them to follow you.
+Press ~k~~GROUP_CONTROL_BWD~ to instruct your gang to stay in position or ~k~~GROUP_CONTROL_FWD~ to instruct them to follow you.
+
+different on pc
+SWEET7 3241687661
+Holding ~u~ or ~d~ for a few seconds or moving too far away from them will disband your group.
+Holding ~k~~GROUP_CONTROL_FWD~ or ~k~~GROUP_CONTROL_BWD~ for a few seconds or moving too far away from them will disband your group.
+
+different on pc
+SWEET7 1953627149
+Your gang has disbanded. Move close and hold ~J~ to target a member and use ~u~ and ~d~ to re-recruit.
+Your gang has disbanded. Move close and hold ~k~~PED_LOCK_TARGET~ to target a member and use ~k~~GROUP_CONTROL_FWD~ and ~k~~GROUP_CONTROL_BWD~ to re-recruit.
+
+different on pc
+SWEET7 2592054561
+If your gang becomes disbanded, you can re-recruit them by holding ~J~ to target them and use the ~u~ and ~d~.
+If your gang becomes disbanded, you can re-recruit them by holding ~k~~PED_LOCK_TARGET~ to target them and use ~k~~GROUP_CONTROL_FWD~ and ~k~~GROUP_CONTROL_BWD~.
+
+different on pc
+SWEET7 792091457
+Hold ~J~ to target a gang member and press ~u~ or ~d~ to recruit him to your group.
+Hold ~k~~PED_LOCK_TARGET~ to target a gang member and press ~k~~GROUP_CONTROL_FWD~ or ~k~~GROUP_CONTROL_BWD~ to recruit him to your group.
+
+different on pc
+SYN1 151362999
+~M~ Zoom in~n~~V~ Zoom out
+~k~~PED_SNIPER_ZOOM_IN~ Zoom in~n~~k~~PED_SNIPER_ZOOM_OUT~ Zoom out.
+
+different on pc
+SYN5 397728555
+~z~Hey, that's my boat!
+~z~Hey, that's my pinche boat!
+
+different on pc
+SYN5 4189764103
+~z~Stop, you thieving bastard!
+~z~Stop, you pinche bastard!
+
+different on pc
+SYN5 2977316144
+~z~Hold up, something ain't right. Where's Toreno?
+~z~Hold up, something ain't right. Where's Toreno at?
+
+different on pc
+SYN7 1969527208
+~z~Hey, some loco basta blasting on our boys!
+~z~Hey, some loco bastard is blasting on our homeboys!
+
+different on pc
+SYN7 4118214995
+~z~Open the gates and waste the dumb fuck!
+~z~Open the gates and waste the dumb fuck, holmes!
+
+different on pc
+SYN7 3442499330
+~z~This ain't no carpark!
+~z~This ain't no parking lot!
+
+different on pc
+SYN7 1498579366
+~o~ Activate bomb, but only do so when car is in position.
+~k~~PED_FIREWEAPON~ Activate bomb, but only do so when car is in position.
+
+different on pc
+SYN7 2103026164
+~o~ Activate bomb.
+~k~~PED_FIREWEAPON~ Activate bomb.
+
+different on pc
+TAXI1 4162186761
+~s~DESTINATION ~y~ Blackfield Stadium.
+~s~DESTINATION ~y~Blackfield Stadium.
+
+different on pc
+TAXI1 1008411862
+~s~DESTINATION ~y~Pirates in Mens' Pants Casino.
+~s~DESTINATION ~y~Pirates in Men's Pants Casino.
+
+different on pc
+TAXI1 73237127
+~s~DESTINATION ~y~24Hrs Mens club.
+~s~DESTINATION ~y~24Hrs Men's club.
+
+different on pc
+TORENO1 548594648
+Hold down ~J~ to use 4-wheel steering.
+Hold down ~k~~VEHICLE_HANDBRAKE~ to use 4-wheel steering.
+
+different on pc
+TORENO1 1916995775
+Hold down ~t~ to use 4-wheel steering.
+Hold down ~k~~VEHICLE_HANDBRAKE~ to use 4-wheel steering.
+
+different on pc
+TORENO1 88356905
+Hold down ~K~ to use 4-wheel steering.
+Hold down ~k~~VEHICLE_HANDBRAKE~ to use 4-wheel steering.
+
+different on pc
+TORENO1 1192799780
+~s~ Get to the next ~r~check-point~s~.
+~s~Get to the next ~r~check-point~s~.
+
+different on pc
+TRU1 3279093097
+~z~Who's this smogger!
+~z~Who's this guy?
+
+different on pc
+TRU1 3290380656
+~z~My pride and joy!
+~z~Oh, my pride and joy!
+
+different on pc
+TRU1 705779804
+~z~Hey, you don't belong here!
+~z~You don't belong around here!
+
+different on pc
+TRU2 4116116154
+Use the right analog stick to move the target position.
+Use the camera movement controls to move the target position.
+
+different on pc
+TRU2 473257871
+Hold the ~J~ to target using the rocket launcher.
+Hold ~k~~PED_LOCK_TARGET~ to target using the rocket launcher.
+
+different on pc
+TRU2 1798465305
+When you're targeting, press ~O~ to fire a rocket.
+When you're targeting, press ~k~~PED_FIREWEAPON~ to fire a rocket.
+
+different on pc
+VALET1 2628397015
+~z~What? But... but I've never seen... how could it have..?
+~z~What? But... but I've never seen... how could it be..?
+
+different on pc
+VALET1 47100532
+~z~Eloquent defense you got there, buddy.
+~z~Hell of a defense you got there, buddy.
+
+different on pc
+VALET1 4227145228
+~s~ Time
+~s~Time
+
+different on pc
+VALET1 4113471038
+~s~ Get back in the ~b~car.
+~s~Get back in the ~b~car.
+
+different on pc
+VALET1 2515083227
+~s~ Leave the car to let the owner in.
+~s~Leave the car to let the owner in.
+
+different on pc
+VALET1 3807260493
+~s~ The car's noticeably damaged. Take it back to ~y~the Garage~s~ to get it fixed up.
+~s~The car's noticeably damaged. Take it back to ~y~the Garage~s~ to get it fixed up.
+
+different on pc
+VALET1 2078768887
+~s~ Park the car in the marked ~y~parking space~s~.
+~s~Park the car in the marked ~y~parking space~s~.
+
+different on pc
+VALET1 216026721
+~s~ Good as new. Now get back to the ~y~car park~s~.
+~s~Good as new. Now get back to the ~y~car park~s~.
+
+different on pc
+VALET1 2458180546
+~r~ You killed the D.A.!
+~r~You killed the D.A.!
+
+different on pc
+VALET1 3668478236
+~r~ You destroyed the D.A.'s car!
+~r~You destroyed the D.A.'s car!
+
+different on pc
+WUZI1 1054765952
+~<~ = YES ~>~ = NO
+~k~~CONVERSATION_YES~ = YES ~k~~CONVERSATION_NO~ = NO
+
+different on pc
+WUZI2 2473060906
+~s~Press ~t~ to plant the bug.
+~s~Press ~k~~VEHICLE_ENTER_EXIT~ to plant the bug
+
+different on pc
+WUZI2 3159921628
+Press ~q~ to jump and climb out of the water.
+Press ~k~~PED_JUMPING~ to jump and climb out of the water.
+
+different on pc
+WUZI4 1475020872
+~z~Please, the snakehead tricked us, we are prisoners.
+~z~Please, the snakehead tricked us, we're prisoners.
+
+different on pc
+ZERO1 465815425
+Press ~O~ to fire the Minigun.
+Press ~k~~PED_FIREWEAPON~ to fire the Minigun.
+
+different on pc
+ZERO1 820941890
+~s~You must protect the 4 Transmitters from attacking planes. Damage will decrease the Transmitters Signal.
+~s~You must protect the 4 Transmitters from attacking planes. Damage will decrease the Transmitter's Signal.
+
+different on pc
+ZERO1 2242335266
+~s~Zero will try and maintain the Transmitters during the attack,
+~s~Zero will try and maintain the Transmitters during the attack.
+
+different on pc
+ZERO2 692576525
+Press ~o~ to self-destruct.
+Press ~k~~PED_FIREWEAPON~ to self-destruct
+
+different on pc
+ZERO2 1496126850
+Press ~x~ to increase throttle. Press ~q~ to decrease throttle.
+Press ~k~~VEHICLE_ACCELERATE~ to increase throttle. Press ~k~~VEHICLE_BRAKE~ to decrease throttle.
+
+different on pc
+ZERO2 3223602232
+Press ~M~ to turn left and ~V~ to turn right using the rudder.
+Press ~k~~VEHICLE_LOOKLEFT~ to turn left and ~k~~VEHICLE_LOOKRIGHT~ to turn right using the rudder.
+
+different on pc
+ZERO2 3072554158
+Use ~h~left analog stick ~w~to steer the plane.
+Use ~k~~VEHICLE_STEERDOWN~ and ~k~~VEHICLE_STEERUP~ to change the plane's altitude.
+
+different on pc
+ZERO2 385916215
+Press ~K~ to fire Machine Guns.
+Press ~k~~VEHICLE_FIREWEAPON_ALT~ to fire Machine Guns.
+
+different on pc
+ZERO2 673972095
+~s~Destroy as many of Berkley's Topfun vans within the time limit!
+~s~Destroy as many of Berkley's delivery vans within the time limit as possible!
+
+different on pc
+ZERO2 1596772329
+~s~Destroy as many of Berkley's Topfun vans as possible.
+~s~Destroy as many of Berkley's delivery vans as possible.
+
+different on pc
+ZERO4 613288634
+Press ~x~ to increase the rotor speed of the helicopter this will propel it upwards.
+Press ~k~~VEHICLE_ACCELERATE~ to increase the rotor speed of the helicopter this will propel it upwards.
+
+different on pc
+ZERO4 3023116075
+Use the left analog stick to tilt the helicopter in the direction you wish to maneuver it.
+Use the steering controls to tilt the helicopter in the direction you wish to maneuver it.
+
+different on pc
+ZERO4 3275106237
+Press ~M~ to rotate the helicopter counter-clockwise.
+Press ~k~~VEHICLE_LOOKLEFT~ to rotate the helicopter counter-clockwise.
+
+different on pc
+ZERO4 2445790426
+Press ~V~ to rotate the helicopter clockwise.
+Press ~k~~VEHICLE_LOOKRIGHT~ to rotate the helicopter clockwise.
+
+different on pc
+ZERO4 3871407180
+Press ~q~ to decrease the rotor speed of the helicopter this will bring it down towards the ground.
+Press ~k~~VEHICLE_BRAKE~ to decrease the rotor speed of the helicopter this will bring it down towards the ground.
+
+different on pc
+ZERO4 2143923702
+Use the right analog stick to rotate the camera around the helicopter.
+Use the camera movement controls to look around the helicopter.
+
+different on pc
+ZERO4 602132131
+Press ~o~ to pick up object.
+Press ~k~~PED_FIREWEAPON~ to pick up object.
+
+different on pc
+ZERO4 3179764480
+Press ~o~ to drop object.
+Press ~k~~PED_FIREWEAPON~ to drop object.
